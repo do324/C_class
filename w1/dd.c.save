@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void)
+{
+
+double b;
+
+int l;
+int q;
+l=b/1;
+scanf("%lf",&b);
+
+printf("%.2lf", b);
+
+return 0;
+}

@@ -1,0 +1,26 @@
+// doyeon kim 139766166 
+
+#include <stdio.h>
+
+int main(void)
+{
+	int loonie, quarter;
+	double num, s;
+       
+
+	printf("please enter the amount to be paid:$");
+	scanf("%lf", &num);
+
+	loonie = num / 1;
+	s = num - loonie;
+	quarter = s / 0.25;
+	
+
+	printf("loonies required:%d, balance owing $%.2lf\n", loonie, s);
+	s -= quarter*0.25;
+	printf("Quarters required:%d, balance owing $%.2lf\n", quarter, s);
+	
+	return 0;
+	
+}
+
