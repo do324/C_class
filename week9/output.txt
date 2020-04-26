@@ -1,0 +1,157 @@
+Script started on Tue 01 Aug 2017 05:55:06 PM EDT
+dkim126@matrix:~/week9> ws
+Welcome to the Book Store
+=========================
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234562    Harry Potter        2010 $23.99   3       
+567890    The Hunger Games    2015 $12.67   4       
+109821    Stranger Things     2017 $53.20   2       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 3
+Please input the ISBN number of the book:
+
+234562
+Book 234562 costs $23.99
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 2
+ISBN:987654
+Title:Tintin in Tibet
+Year:1960
+Price:25.60
+Quantity:2
+The book is successfully added to the inventory.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234562    Harry Potter        2010 $23.99   3       
+567890    The Hunger Games    2015 $12.67   4       
+109821    Stranger Things     2017 $53.20   2       
+987654    Tintin in Tibet     1960 $25.60   2       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 2
+ISBN:378021
+Title:Born a crime
+Year:2016
+Price:40.99
+Quantity:3
+The book is successfully added to the inventory.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234562    Harry Potter        2010 $23.99   3       
+567890    The Hunger Games    2015 $12.67   4       
+109821    Stranger Things     2017 $53.20   2       
+987654    Tintin in Tibet     1960 $25.60   2       
+378021    Born a crime        2016 $40.99   3       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 2
+ISBN:234562
+Title:Harry Potter
+Year:2010
+Price:23.99
+Quantity:3
+The book exists in the repository!
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 3
+Please input the ISBN number of the book:
+
+987654
+Book 987654 costs $25.60
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 4
+The total capital is: $403.22.
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 0
+Goodbye!
+dkim126@matrix:~/week9> exit
+exit
+
+Script done on Tue 01 Aug 2017 05:57:12 PM EDT

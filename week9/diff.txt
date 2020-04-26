@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+================================
+But your output is: 
+If 'MS3' is not a typo you can use command-not-found to lookup the package that contains it, like this:
+^
+|
+Professor's character ASCII code: hex(3d), dec(61)
+un-matched character ASCII code: hex(49), dec(73)

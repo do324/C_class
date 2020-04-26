@@ -1,0 +1,131 @@
+Script started on Wed 05 Jul 2017 08:50:45 AM EDT
+cameron.gray@matrix:~/_staging/144/ws08> ws
+Welcome to the Book Store
+=========================
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 4
+Invalid input, try again:
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 1
+The inventory is empty!
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 2
+ISBN:234567
+Quantity:3
+Title:Harry Potter
+Year:2010
+Price:23.99
+The book is successfully added to the inventory.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 2
+ISBN:567890
+Quantity:2
+Title:The Hunger Games
+Year:2015
+Price:12.67
+The book is successfully added to the inventory.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234567    Harry Potter        2010 $23.99   3       
+567890    The Hunger Games    2015 $12.67   2       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 2
+ISBN:234567
+Quantity:2
+The book exists in the repository, quantity is updated.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234567    Harry Potter        2010 $23.99   5       
+567890    The Hunger Games    2015 $12.67   2       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 3
+Please input the ISBN number of the book:
+
+56789
+Book does not exist in the bookstore! Please try again.
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 3
+Please input the ISBN number of the book:
+
+567890
+Book 567890 costs $12.67
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+0) Exit.
+
+Select: 0
+Goodbye!
+cameron.gray@matrix:~/_staging/144/ws08> exit
+exit
+
+Script done on Wed 05 Jul 2017 08:51:57 AM EDT

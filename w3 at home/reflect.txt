@@ -1,0 +1,13 @@
+1) Name all the iteration constructs. 
+while, for, do while, interrupting
+2) In two or three sentences explain the difference between a “do while” and a “while” loop?
+do while - can not get rusult that be evaluated untill the end of each loop.
+while - can see result that be evaluated of each loop.
+
+3) In two or three sentences explain what is meant by the term conditional expression?
+
+for example, if a condition is true, execute the condition or if a condition is false, execute the condition.
+the condition can be set by user.
+
+
+

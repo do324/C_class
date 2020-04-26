@@ -1,0 +1,10 @@
+
+In line number 9 of your output:
+The output should be:
+Nickels required: 1, balance owing $0.01
+But your output is: 
+Nickels required:1, balance owing $0.01
+                 ^
+-----------------|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(31), dec(49)

@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+---=== EMPLOYEE DATA ===---
+But your output is: 
+dkim126@matrix:~/week5> ws[K
+^
+|
+Professor's character ASCII code: hex(2d), dec(45)
+un-matched character ASCII code: hex(64), dec(100)

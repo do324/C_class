@@ -1,0 +1,10 @@
+
+In line number 30 of your output:
+The output should be:
+15  |731|Jack's Apple Juice  |    1.50|  Yes|  80 |  10 |      135.60|
+But your output is: 
+15  |731|Jack's Apple Juic   |    1.50|  Yes|  80 |  10 |      135.60|
+                          ^
+--------------------------|
+Professor's character ASCII code: hex(65), dec(101)
+un-matched character ASCII code: hex(20), dec(32)

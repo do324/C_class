@@ -1,0 +1,7 @@
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements?
+    because people can input 10 for numbers of day. so i have to hold 10 elements.
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays? 
+   i can reprsent multiple dates by using only one name it is a advantage. but if i dont know how many elements are to be stored in arrry
+   i can not use array in program. this is a disadvantage.
+3) Was the at home portion of this workshop too easy, just right or too hard? Why?
+   is is too hard because i dont know well how to use array.

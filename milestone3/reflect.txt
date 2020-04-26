@@ -1,0 +1,7 @@
+Please provide brief answers to the following questions in a file named reflect.txt. 
+1. In 3 or 4 sentences explain the term ¡°function¡± and briefly discuss the need for functions in any language? 
+function can be a type of procedure or routine. function can return a value or does not return value. Also, function can control each other by call and return. Header and body is included in function. the reason why need function in programming is reusability. if I define a function, I can use this function many times in my code.  
+
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module?
+I think because "helper" functions are used in the "contracts" module. so, division of these two modules can more looks simply and organized. if it is not dived, the code looks more complicated. 
+

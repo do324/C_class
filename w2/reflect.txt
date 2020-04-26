@@ -1,0 +1,8 @@
+1- What do you think is the most important thing you learned in this workshop? 
+   I think calculation ,casting, modulus are important things.
+2- Why must you add .005 to the value derived when calculating the GST owing? because when i add .005 to the value, the result will 1.13
+3- What is the result of a casting operation? data type is changed.
+4- Why do you think you were required to use the modulus operator in this workshop? because remainder make easy to calculte.
+
+
+

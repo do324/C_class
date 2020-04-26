@@ -1,0 +1,7 @@
+1. Can you think of a more efficient way to ask a user to add the required information to each data field?
+NO, if I dont't use optional values way, user who does not have a middle initial, apartment and multiple phone numbers  
+can not add their information. Also, optional values way is lessen the input time that user add their information by
+they choosing yes or no. 
+2. Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters.
+because there is a need a space of memory for terminator. this terminator is the null terminator that has the value 0.
+26 memory locations are needed to store up to 25 characters. 

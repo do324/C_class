@@ -1,0 +1,10 @@
+
+In line number 7 of your output:
+The output should be:
+    yours=101.474000
+But your output is: 
+    yours=89.800000
+          ^
+----------|
+Professor's character ASCII code: hex(31), dec(49)
+un-matched character ASCII code: hex(38), dec(56)

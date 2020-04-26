@@ -1,0 +1,7 @@
+Add the following information to the comments.txt file:
+Citation:
+- If you have used any code or logic developed by others in your solution, you must identify the source of that code or logic using comments in your source code. 
+- You must insert these comments at the place in your source code where the code/logic is being used. 
+- You must also copy and list this information in the comments.txt file.
+Failure to identify any code or logic developed by others and included in your solution will result in an assessment of plagiarism by your professor.  
+

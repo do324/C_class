@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+***** Rental Vehicle Management App *****
+But your output is: 
+dkim126@matrix:~/week6> ws
+^
+|
+Professor's character ASCII code: hex(2a), dec(42)
+un-matched character ASCII code: hex(64), dec(100)

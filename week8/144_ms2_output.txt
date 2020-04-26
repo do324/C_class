@@ -1,0 +1,106 @@
+Script started on Fri 30 Jun 2017 12:54:58 PM EDT
+cameron.gray@matrix:~/_staging/144/ms2> ms2
+totalAfterTax:
+    yours=44.000000
+program's=44.000000
+totalAfterTax:
+    yours=101.474000
+program's=101.474000
+isLowQuantity:
+    yours=0
+program's=0
+isLowQuantity:
+    yours=1
+program's=1
+Press <ENTER> to continue...
+itemEntry, enter the following values:
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 50
+Minimum Qty: 5
+   Is Taxed: n
+Enter the values:
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 50
+Minimum Qty: 5
+   Is Taxed: n
+displayItem, Linear:
+Yours: |999|Red Apples          |    4.54|   No|  50 |   5 |      227.00|
+ Prog: |999|Red Apples          |    4.54|   No|  50 |   5 |      227.00|
+displayItem, Form:
+Yours:
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 50
+Minimum Qty: 5
+   Is Taxed: No
+Programs: 
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 50
+Minimum Qty: 5
+   Is Taxed: No
+Press <ENTER> to continue...
+displayItem, Linear with low value and taxed:
+Yours: |999|Red Apples          |    4.54|  Yes|   2 |   5 |       10.26|***
+ Prog: |999|Red Apples          |    4.54|  Yes|   2 |   5 |       10.26|***
+displayItem, Form with low value:
+Yours:
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 2
+Minimum Qty: 5
+   Is Taxed: Yes
+WARNING: Quantity low, please order ASAP!!!
+Programs: 
+        SKU: 999
+       Name: Red Apples
+      Price: 4.54
+   Quantity: 2
+Minimum Qty: 5
+   Is Taxed: Yes
+WARNING: Quantity low, please order ASAP!!!
+Press <ENTER> to continue...
+Listing Items: 
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+1   |275|Royal Apples        |    4.40|   No|  10 |   2 |       44.00|
+2   |386|Watermelon          |    5.99|   No|  20 |   4 |      119.80|
+3   |240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+4   |916|Seedless Grapes     |   10.56|   No|  20 |   3 |      211.20|
+5   |385|Pomegranate         |    2.50|   No|   5 |   2 |       12.50|
+6   |495|Banana              |    0.44|   No| 100 |  30 |       44.00|
+7   |316|Kiwifruit           |    0.50|   No| 123 |  10 |       61.50|
+8   |355|Chicken Alfredo     |    4.49|  Yes|  20 |   5 |      101.47|
+9   |846|Veal Parmigiana     |    5.49|  Yes|   3 |   5 |       18.61|***
+10  |359|Beffsteak Pie       |    5.29|  Yes|  40 |   5 |      239.11|
+11  |127|Curry Checken       |    4.79|  Yes|  30 |   3 |      162.38|
+12  |238|Tide Detergent      |   16.99|  Yes|  10 |   2 |      191.99|
+13  |324|Tide Liq. Pods      |   10.49|  Yes|  40 |   5 |      474.15|
+14  |491|Tide Powder Det.    |   10.99|  Yes|  50 |   5 |      620.94|
+15  |538|Lays Chips S&V      |    3.69|  Yes|   1 |   5 |        4.17|***
+16  |649|Joe Org Chips       |    3.29|  Yes|  15 |   5 |       55.77|
+17  |731|Allen's Apple Juice |    1.79|  Yes| 100 |  10 |      202.27|
+18  |984|Coke 24 Pack        |    6.69|  Yes|  30 |   3 |      226.79|
+19  |350|Nestea 24 Pack      |    7.29|  Yes|  50 |   5 |      411.88|
+20  |835|7up 24 pack         |    6.49|  Yes|  20 |   2 |      146.67|
+21  |999|Red Apples          |    4.54|  Yes|   2 |   5 |       10.26|***
+--------------------------------------------------------+----------------
+                                           Grand Total: |     3479.16
+Press <ENTER> to continue...
+Locate Item, successful search:
+program: Found the item 999 at index: 20
+  Yours: Found the item 999 at index: 20
+Locate Item, unsuccessful search:
+Progam: No item with the sku 732 is in the array!
+ Yours: No item with the sku 732 is in the array!
+cameron.gray@matrix:~/_staging/144/ms2> exit
+exit
+
+Script done on Fri 30 Jun 2017 12:55:25 PM EDT

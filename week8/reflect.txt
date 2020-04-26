@@ -1,0 +1,11 @@
+1)	When passing an array to a function is it "by address" or "by value" ? explain what happens and what is meant by the two terms.
+2)	By value is I can make a copy in memory of the parameter's value
+    parameter's value is passed in that a copy of the contents of the actual parameter. I can use by value when I need to use parameter in computation. And I can use it for don¡¯t make any change for client program 
+in by address a copy of the address is stored. I can use it for make change in client program.
+ 
+3)	Explain why functions with an array parameter are usually complemented with an additional integer parameter (reference specifics in this workshop to explain your answer).
+4)	
+because integer values can be arbitrarily large
+ 
+3) Why do some of the functions in this workshop specify "const" for the array parameters and not in others?
+Const can designate type and to don¡¯t make any change in  value.

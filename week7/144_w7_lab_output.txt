@@ -1,0 +1,76 @@
+Script started on Thu 29 Jun 2017 10:44:01 PM EDT
+cameron.gray@matrix:~/xxxxxxxxxxxxxxxxxxxxxxxx> ws
+---=== Phone Numbers ===---
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 1
+
+Phone Numbers
+==============
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+4164915050
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+9052301212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+6475551212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 1
+
+Phone Numbers
+==============
+(416)-491-5050
+(905)-230-1212
+(647)-555-1212
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 2
+
+Add a Number
+============
+ERROR!!! Phone Number List is Full
+
+1. Display Phone List
+2. Add a Number
+0. Exit
+
+Please select from the above options: 0
+
+Exiting Phone Number App. Good Bye!!!
+cameron.gray@matrix:~/xxxxxxxxxxxxxxxxxxxxxxxx> exit
+exit
+
+Script done on Thu 29 Jun 2017 10:44:28 PM EDT

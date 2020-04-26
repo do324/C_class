@@ -1,0 +1,10 @@
+
+In line number 303 of your output:
+The output should be:
+Please enter the contact's street name: Somewhere Lane
+But your output is: 
+Please enter the contact's street name: Somewhere lane
+                                                  ^
+--------------------------------------------------|
+Professor's character ASCII code: hex(4c), dec(76)
+un-matched character ASCII code: hex(6c), dec(108)

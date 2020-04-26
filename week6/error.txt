@@ -1,0 +1,3094 @@
+rental2.c:1:1: error: stray ‘\177’ in program
+rental2.c:1:1: error: stray ‘\1’ in program
+rental2.c:1:1: error: stray ‘\1’ in program
+rental2.c:1:1: error: stray ‘\1’ in program
+rental2.c:1:8: warning: null character(s) ignored [enabled by default]
+rental2.c:1:1: error: stray ‘\2’ in program
+rental2.c:1:18: warning: null character(s) ignored [enabled by default]
+rental2.c:1:1: error: stray ‘\3’ in program
+rental2.c:1:20: warning: null character(s) ignored [enabled by default]
+rental2.c:1:1: error: stray ‘\1’ in program
+rental2.c:1:22: warning: null character(s) ignored [enabled by default]
+rental2.c:1:1: error: stray ‘@’ in program
+rental2.c:1:1: error: stray ‘\204’ in program
+rental2.c:1:1: error: stray ‘\4’ in program
+rental2.c:1:1: error: stray ‘\10’ in program
+rental2.c:1:29: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before numeric constant
+rental2.c:1:30: warning: null character(s) ignored [enabled by default]
+rental2.c:1:29: error: stray ‘\24’ in program
+rental2.c:1:35: warning: null character(s) ignored [enabled by default]
+rental2.c:1:42: warning: null character(s) ignored [enabled by default]
+rental2.c:1:48: warning: null character(s) ignored [enabled by default]
+rental2.c:1:49: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:1:49: warning: missing terminating ' character [enabled by default]
+rental2.c:1:29: error: missing terminating ' character
+rental2.c:2:1: error: stray ‘\5’ in program
+rental2.c:2:1: error: stray ‘\23’ in program
+rental2.c:2:1: error: stray ‘\20’ in program
+rental2.c:2:6: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:2:6: warning: missing terminating " character [enabled by default]
+rental2.c:2:1: error: missing terminating " character
+rental2.c:3:1: warning: null character(s) ignored [enabled by default]
+rental2.c:3:3: error: stray ‘\3’ in program
+rental2.c:3:4: warning: null character(s) ignored [enabled by default]
+rental2.c:3:6: warning: null character(s) ignored [enabled by default]
+rental2.c:3:3: error: stray ‘\20’ in program
+rental2.c:3:10: warning: null character(s) ignored [enabled by default]
+rental2.c:3:3: error: stray ‘\20’ in program
+rental2.c:4:1: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\2’ in program
+rental2.c:4:4: warning: null character(s) ignored [enabled by default]
+rental2.c:4:6: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\360’ in program
+rental2.c:4:3: error: stray ‘\257’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\6’ in program
+rental2.c:4:3: error: stray ‘\2’ in program
+rental2.c:4:19: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\1’ in program
+rental2.c:4:27: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\2’ in program
+rental2.c:4:35: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\3’ in program
+rental2.c:4:43: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:51: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\20’ in program
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\5’ in program
+rental2.c:4:59: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\24’ in program
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\6’ in program
+rental2.c:4:67: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\30’ in program
+rental2.c:4:3: error: stray ‘\260’ in program
+rental2.c:4:3: error: stray ‘\4’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:3: error: stray ‘\7’ in program
+rental2.c:4:75: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\203’ in program
+rental2.c:4:3: error: stray ‘\354’ in program
+rental2.c:4:3: error: stray ‘\10’ in program
+rental2.c:4:3: error: stray ‘\350’ in program
+rental2.c:4:82: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\201’ in program
+rental2.c:4:3: error: stray ‘\303’ in program
+rental2.c:4:91: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\213’ in program
+rental2.c:4:3: error: stray ‘\203’ in program
+rental2.c:4:3: error: stray ‘\374’ in program
+rental2.c:4:3: error: stray ‘\377’ in program
+rental2.c:4:3: error: stray ‘\377’ in program
+rental2.c:4:3: error: stray ‘\377’ in program
+rental2.c:4:3: error: stray ‘\205’ in program
+rental2.c:4:3: error: stray ‘\300’ in program
+rental2.c:4:3: error: stray ‘\5’ in program
+rental2.c:4:3: error: stray ‘\350’ in program
+rental2.c:4:105: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\350’ in program
+rental2.c:4:3: error: stray ‘\34’ in program
+rental2.c:4:3: error: stray ‘\1’ in program
+rental2.c:4:111: warning: null character(s) ignored [enabled by default]
+rental2.c:4:3: error: stray ‘\350’ in program
+rental2.c:5:1: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\304’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\303’ in program
+rental2.c:5:8: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\370’ in program
+rental2.c:5:3: error: stray ‘\257’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\374’ in program
+rental2.c:5:3: error: stray ‘\257’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:22: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:28: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:33: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\340’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:50: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\320’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\20’ in program
+rental2.c:5:66: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\300’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\30’ in program
+rental2.c:5:82: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\20’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:97: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\240’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\24’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:114: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\30’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:130: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\351’ in program
+rental2.c:5:3: error: stray ‘\200’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\355’ in program
+rental2.c:5:3: error: stray ‘\211’ in program
+rental2.c:5:3: error: stray ‘\341’ in program
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\344’ in program
+rental2.c:5:3: error: stray ‘\360’ in program
+rental2.c:5:150: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\216’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\215’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\236’ in program
+rental2.c:5:3: error: stray ‘\205’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\350’ in program
+rental2.c:5:3: error: stray ‘\237’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\364’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\220’ in program
+rental2.c:5:3: error: stray ‘\211’ in program
+rental2.c:5:3: error: stray ‘\345’ in program
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\354’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\200’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:199: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\241’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\273’ in program
+rental2.c:5:3: error: stray ‘\30’ in program
+rental2.c:5:3: error: stray ‘\257’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\201’ in program
+rental2.c:5:3: error: stray ‘\353’ in program
+rental2.c:5:3: error: stray ‘\24’ in program
+rental2.c:5:3: error: stray ‘\257’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\301’ in program
+rental2.c:5:3: error: stray ‘\373’ in program
+rental2.c:5:3: error: stray ‘\2’ in program
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\353’ in program
+rental2.c:5:3: error: stray ‘\1’ in program
+rental2.c:5:3: error: stray ‘\330’ in program
+rental2.c:5:3: error: stray ‘\36’ in program
+rental2.c:5:3: error: stray ‘\215’ in program
+rental2.c:5:3: error: stray ‘\266’ in program
+rental2.c:5:230: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\300’ in program
+rental2.c:5:3: error: stray ‘\1’ in program
+rental2.c:5:3: error: stray ‘\243’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\377’ in program
+rental2.c:5:3: error: stray ‘\24’ in program
+rental2.c:5:3: error: stray ‘\205’ in program
+rental2.c:5:3: error: stray ‘\24’ in program
+rental2.c:5:3: error: stray ‘\257’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\241’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\330’ in program
+rental2.c:5:3: error: stray ‘\350’ in program
+rental2.c:5:3: error: stray ‘\306’ in program
+rental2.c:5:3: error: stray ‘\5’ in program
+rental2.c:5:3: error: stray ‘\260’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\10’ in program
+rental2.c:5:3: error: stray ‘\1’ in program
+rental2.c:5:3: error: stray ‘\203’ in program
+rental2.c:5:3: error: stray ‘\304’ in program
+rental2.c:5:3: error: stray ‘\4’ in program
+rental2.c:5:3: error: stray ‘\303’ in program
+rental2.c:5:3: error: stray ‘\215’ in program
+rental2.c:5:274: warning: null character(s) ignored [enabled by default]
+rental2.c:5:3: error: stray ‘\215’ in program
+rental2.c:5:3: error: stray ‘\274’ in program
+rental2.c:5:277: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:5:277: warning: missing terminating ' character [enabled by default]
+rental2.c:5:3: error: missing terminating ' character
+rental2.c:6:1: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\350’ in program
+rental2.c:6:4: error: stray ‘\236’ in program
+rental2.c:6:4: error: stray ‘\374’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\351’ in program
+rental2.c:6:4: error: stray ‘\37’ in program
+rental2.c:6:4: error: stray ‘\6’ in program
+rental2.c:6:12: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\307’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\314’ in program
+rental2.c:6:18: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\307’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\217’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\10’ in program
+rental2.c:6:4: error: stray ‘\350’ in program
+rental2.c:6:4: error: stray ‘\302’ in program
+rental2.c:6:4: error: stray ‘\374’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\270’ in program
+rental2.c:6:4: error: stray ‘\200’ in program
+rental2.c:6:4: error: stray ‘\217’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\10’ in program
+rental2.c:6:4: error: stray ‘\211’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\350’ in program
+rental2.c:6:4: error: stray ‘\225’ in program
+rental2.c:6:4: error: stray ‘\374’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\270’ in program
+rental2.c:6:4: error: stray ‘\25’ in program
+rental2.c:6:4: error: stray ‘\217’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\10’ in program
+rental2.c:6:4: error: stray ‘\215’ in program
+rental2.c:6:4: error: stray ‘\224’ in program
+rental2.c:6:4: error: stray ‘\210’ in program
+rental2.c:6:59: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\211’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\211’ in program
+rental2.c:6:4: error: stray ‘\4’ in program
+rental2.c:6:4: error: stray ‘\350’ in program
+rental2.c:6:4: error: stray ‘\215’ in program
+rental2.c:6:4: error: stray ‘\374’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\377’ in program
+rental2.c:6:4: error: stray ‘\307’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\310’ in program
+rental2.c:6:78: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\353’ in program
+rental2.c:6:4: error: stray ‘\213’ in program
+rental2.c:6:4: error: stray ‘\224’ in program
+rental2.c:6:4: error: stray ‘\310’ in program
+rental2.c:6:91: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\211’ in program
+rental2.c:6:4: error: stray ‘\320’ in program
+rental2.c:6:4: error: stray ‘\301’ in program
+rental2.c:6:4: error: stray ‘\340’ in program
+rental2.c:6:4: error: stray ‘\2’ in program
+rental2.c:6:4: error: stray ‘\1’ in program
+rental2.c:6:4: error: stray ‘\320’ in program
+rental2.c:6:4: error: stray ‘\301’ in program
+rental2.c:6:4: error: stray ‘\340’ in program
+rental2.c:6:4: error: stray ‘\2’ in program
+rental2.c:6:4: error: stray ‘\215’ in program
+rental2.c:6:4: error: stray ‘\224’ in program
+rental2.c:6:4: error: stray ‘\320’ in program
+rental2.c:6:108: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\1’ in program
+rental2.c:6:4: error: stray ‘\320’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:115: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\213’ in program
+rental2.c:6:4: error: stray ‘\20’ in program
+rental2.c:6:4: error: stray ‘\213’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\210’ in program
+rental2.c:6:124: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\302’ in program
+rental2.c:6:4: error: stray ‘\16’ in program
+rental2.c:6:4: error: stray ‘\213’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\310’ in program
+rental2.c:6:135: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\211’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\314’ in program
+rental2.c:6:142: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\203’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\310’ in program
+rental2.c:6:149: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\1’ in program
+rental2.c:6:4: error: stray ‘\213’ in program
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\310’ in program
+rental2.c:6:157: warning: null character(s) ignored [enabled by default]
+rental2.c:6:4: error: stray ‘\204’ in program
+rental2.c:6:4: error: stray ‘\274’ in program
+rental2.c:6:164: warning: null character(s) ignored [enabled by default]
+rental2.c:6:167: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘}’ token
+rental2.c:7:1: error: stray ‘\203’ in program
+rental2.c:7:1: error: stray ‘\274’ in program
+rental2.c:7:1: error: stray ‘\314’ in program
+rental2.c:7:5: warning: null character(s) ignored [enabled by default]
+rental2.c:7:1: error: stray ‘\377’ in program
+rental2.c:7:3: error: unknown type name ‘$’
+rental2.c:7:1: error: stray ‘\244’ in program
+rental2.c:7:1: error: stray ‘\203’ in program
+rental2.c:7:1: error: stray ‘\274’ in program
+rental2.c:7:13: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘$’
+rental2.c:7:13: error: stray ‘\314’ in program
+rental2.c:7:15: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\17’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:23: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\371’ in program
+rental2.c:7:13: error: stray ‘\373’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\25’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\364’ in program
+rental2.c:7:13: error: stray ‘\373’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\314’ in program
+rental2.c:7:63: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:80: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:87: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘@’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\333’ in program
+rental2.c:7:13: error: stray ‘\336’ in program
+rental2.c:7:13: error: stray ‘\311’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\234’ in program
+rental2.c:7:13: error: stray ‘\240’ in program
+rental2.c:7:111: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\264’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\240’ in program
+rental2.c:7:13: error: stray ‘\373’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\25’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\233’ in program
+rental2.c:7:13: error: stray ‘\373’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\205’ in program
+rental2.c:7:13: error: stray ‘\300’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\203’ in program
+rental2.c:7:13: error: stray ‘\370’ in program
+rental2.c:7:13: error: stray ‘\177’ in program
+rental2.c:7:13: error: stray ‘\35’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\333’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\5’ in program
+rental2.c:7:13: error: stray ‘\210’ in program
+rental2.c:7:13: error: stray ‘\221’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\336’ in program
+rental2.c:7:13: error: stray ‘\311’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\234’ in program
+rental2.c:7:13: error: stray ‘\300’ in program
+rental2.c:7:189: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\353’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\203’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\333’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\5’ in program
+rental2.c:7:13: error: stray ‘\220’ in program
+rental2.c:7:13: error: stray ‘\221’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\336’ in program
+rental2.c:7:13: error: stray ‘\311’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\5’ in program
+rental2.c:7:13: error: stray ‘\230’ in program
+rental2.c:7:13: error: stray ‘\221’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\336’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\234’ in program
+rental2.c:7:13: error: stray ‘\300’ in program
+rental2.c:7:229: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:13: error: stray ‘\240’ in program
+rental2.c:7:236: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\334’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:13: error: stray ‘\300’ in program
+rental2.c:7:243: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\234’ in program
+rental2.c:7:13: error: stray ‘\230’ in program
+rental2.c:7:250: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\314’ in program
+rental2.c:7:257: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:274: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:281: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘@’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:13: error: stray ‘\230’ in program
+rental2.c:7:291: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\34’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\321’ in program
+rental2.c:7:13: error: stray ‘\373’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\213’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\314’ in program
+rental2.c:7:310: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\301’ in program
+rental2.c:7:13: error: stray ‘\340’ in program
+rental2.c:7:13: error: stray ‘\2’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\224’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:327: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\1’ in program
+rental2.c:7:13: error: stray ‘\320’ in program
+rental2.c:7:13: error: stray ‘\204’ in program
+rental2.c:7:334: warning: null character(s) ignored [enabled by default]
+rental2.c:7:13: error: stray ‘\335’ in program
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\316’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\276’ in program
+rental2.c:7:13: error: stray ‘\372’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\270’ in program
+rental2.c:7:13: error: stray ‘\337’ in program
+rental2.c:7:13: error: stray ‘\217’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\10’ in program
+rental2.c:7:13: error: stray ‘\215’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\211’ in program
+rental2.c:7:13: error: stray ‘\4’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\271’ in program
+rental2.c:7:13: error: stray ‘\372’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\220’ in program
+rental2.c:7:13: error: stray ‘\350’ in program
+rental2.c:7:13: error: stray ‘\372’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\377’ in program
+rental2.c:7:13: error: stray ‘\203’ in program
+rental2.c:7:13: error: stray ‘\370’ in program
+rental2.c:8:1: error: stray ‘\366’ in program
+rental2.c:8:1: error: stray ‘\17’ in program
+rental2.c:8:1: error: stray ‘\266’ in program
+rental2.c:8:1: error: stray ‘\17’ in program
+rental2.c:8:1: error: stray ‘\266’ in program
+rental2.c:8:1: error: stray ‘\213’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\314’ in program
+rental2.c:8:25: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\211’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\215’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:42: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:49: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘@’ in program
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:1: error: stray ‘\250’ in program
+rental2.c:8:59: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\’ in program
+rental2.c:8:1: error: stray ‘\10’ in program
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\34’ in program
+rental2.c:8:1: error: stray ‘\350’ in program
+rental2.c:8:1: error: stray ‘\246’ in program
+rental2.c:8:1: error: stray ‘\373’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\213’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\314’ in program
+rental2.c:8:78: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\211’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\215’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:95: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:102: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\307’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\344’ in program
+rental2.c:8:1: error: stray ‘\217’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\10’ in program
+rental2.c:8:1: error: stray ‘\350’ in program
+rental2.c:8:1: error: stray ‘\372’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\307’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\220’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\10’ in program
+rental2.c:8:1: error: stray ‘\350’ in program
+rental2.c:8:1: error: stray ‘\372’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\213’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\314’ in program
+rental2.c:8:136: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\211’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\301’ in program
+rental2.c:8:1: error: stray ‘\340’ in program
+rental2.c:8:1: error: stray ‘\2’ in program
+rental2.c:8:1: error: stray ‘\215’ in program
+rental2.c:8:1: error: stray ‘\224’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:153: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\1’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:160: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘@’ in program
+rental2.c:8:1: error: stray ‘\17’ in program
+rental2.c:8:1: error: stray ‘\266’ in program
+rental2.c:8:1: error: stray ‘\17’ in program
+rental2.c:8:1: error: stray ‘\276’ in program
+rental2.c:8:1: error: stray ‘\320’ in program
+rental2.c:8:1: error: stray ‘\270’ in program
+rental2.c:8:1: error: stray ‘\220’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\10’ in program
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\’ in program
+rental2.c:8:1: error: stray ‘\30’ in program
+rental2.c:8:1: error: stray ‘\211’ in program
+rental2.c:8:1: error: stray ‘\24’ in program
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:1: error: stray ‘\300’ in program
+rental2.c:8:191: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\’ in program
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\204’ in program
+rental2.c:8:1: error: stray ‘\240’ in program
+rental2.c:8:202: warning: null character(s) ignored [enabled by default]
+rental2.c:8:1: error: stray ‘\335’ in program
+rental2.c:8:1: error: stray ‘\’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\211’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:8:1: error: stray ‘\350’ in program
+rental2.c:8:1: error: stray ‘\310’ in program
+rental2.c:8:1: error: stray ‘\371’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\377’ in program
+rental2.c:8:1: error: stray ‘\307’ in program
+rental2.c:8:1: error: stray ‘\4’ in program
+rental2.c:9:1: warning: null character(s) ignored [enabled by default]
+rental2.c:9:4: error: stray ‘\350’ in program
+rental2.c:9:4: error: stray ‘\234’ in program
+rental2.c:9:4: error: stray ‘\371’ in program
+rental2.c:9:4: error: stray ‘\377’ in program
+rental2.c:9:4: error: stray ‘\377’ in program
+rental2.c:9:4: error: stray ‘\307’ in program
+rental2.c:9:4: error: stray ‘\4’ in program
+rental2.c:10:1: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\351’ in program
+rental2.c:10:4: error: stray ‘\21’ in program
+rental2.c:10:4: error: stray ‘\3’ in program
+rental2.c:10:12: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘@’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\277’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\351’ in program
+rental2.c:10:27: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\3’ in program
+rental2.c:10:29: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\256’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\207’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\242’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\241’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\226’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\207’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\212’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\241’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:95: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\351’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:105: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\5’ in program
+rental2.c:10:4: error: stray ‘\221’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\234’ in program
+rental2.c:10:4: error: stray ‘\260’ in program
+rental2.c:10:117: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:4: error: stray ‘\260’ in program
+rental2.c:10:124: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\5’ in program
+rental2.c:10:4: error: stray ‘\240’ in program
+rental2.c:10:4: error: stray ‘\221’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\336’ in program
+rental2.c:10:4: error: stray ‘\311’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\234’ in program
+rental2.c:10:4: error: stray ‘\260’ in program
+rental2.c:10:139: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:146: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\215’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:163: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:170: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘@’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:4: error: stray ‘\260’ in program
+rental2.c:10:180: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\34’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\31’ in program
+rental2.c:10:4: error: stray ‘\372’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\234’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:199: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:206: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\215’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:223: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:230: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘@’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:240: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\34’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\236’ in program
+rental2.c:10:4: error: stray ‘\371’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:259: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\215’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:276: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:283: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:293: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\215’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:310: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:317: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘@’ in program
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\314’ in program
+rental2.c:10:327: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\301’ in program
+rental2.c:10:4: error: stray ‘\340’ in program
+rental2.c:10:4: error: stray ‘\2’ in program
+rental2.c:10:4: error: stray ‘\215’ in program
+rental2.c:10:4: error: stray ‘\224’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:344: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\1’ in program
+rental2.c:10:4: error: stray ‘\320’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:351: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\213’ in program
+rental2.c:10:4: error: stray ‘\20’ in program
+rental2.c:10:4: error: stray ‘\270’ in program
+rental2.c:10:4: error: stray ‘\274’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\204’ in program
+rental2.c:10:4: error: stray ‘\220’ in program
+rental2.c:10:365: warning: null character(s) ignored [enabled by default]
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\’ in program
+rental2.c:10:4: error: stray ‘\20’ in program
+rental2.c:10:4: error: stray ‘\335’ in program
+rental2.c:10:4: error: stray ‘\’ in program
+rental2.c:10:4: error: stray ‘\10’ in program
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\211’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:10:4: error: stray ‘\350’ in program
+rental2.c:10:4: error: stray ‘\370’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\377’ in program
+rental2.c:10:4: error: stray ‘\307’ in program
+rental2.c:10:4: error: stray ‘\4’ in program
+rental2.c:11:1: warning: null character(s) ignored [enabled by default]
+rental2.c:11:4: error: stray ‘\350’ in program
+rental2.c:11:4: error: stray ‘\370’ in program
+rental2.c:11:4: error: stray ‘\377’ in program
+rental2.c:11:4: error: stray ‘\377’ in program
+rental2.c:11:4: error: stray ‘\203’ in program
+rental2.c:11:4: error: stray ‘\204’ in program
+rental2.c:11:4: error: stray ‘\314’ in program
+rental2.c:11:13: warning: null character(s) ignored [enabled by default]
+rental2.c:11:4: error: stray ‘\1’ in program
+rental2.c:11:4: error: stray ‘\213’ in program
+rental2.c:11:4: error: stray ‘\204’ in program
+rental2.c:11:4: error: stray ‘\314’ in program
+rental2.c:11:21: warning: null character(s) ignored [enabled by default]
+rental2.c:11:4: error: stray ‘\204’ in program
+rental2.c:11:4: error: stray ‘\274’ in program
+rental2.c:11:28: warning: null character(s) ignored [enabled by default]
+rental2.c:11:4: error: stray ‘\17’ in program
+rental2.c:11:4: error: stray ‘\214’ in program
+rental2.c:11:4: error: stray ‘\277’ in program
+rental2.c:11:4: error: stray ‘\376’ in program
+rental2.c:11:4: error: stray ‘\377’ in program
+rental2.c:11:4: error: stray ‘\377’ in program
+rental2.c:11:4: error: stray ‘\307’ in program
+rental2.c:11:4: error: stray ‘\4’ in program
+rental2.c:11:26: error: unknown type name ‘$’
+rental2.c:12:1: warning: null character(s) ignored [enabled by default]
+rental2.c:12:4: error: stray ‘\350’ in program
+rental2.c:12:4: error: stray ‘\341’ in program
+rental2.c:12:4: error: stray ‘\367’ in program
+rental2.c:12:4: error: stray ‘\377’ in program
+rental2.c:12:4: error: stray ‘\377’ in program
+rental2.c:12:4: error: stray ‘\351’ in program
+rental2.c:12:10: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘b’
+rental2.c:12:10: error: stray ‘\1’ in program
+rental2.c:12:12: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\307’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: unknown type name ‘b’
+rental2.c:12:10: error: stray ‘\314’ in program
+rental2.c:12:18: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\307’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\317’ in program
+rental2.c:12:10: error: stray ‘\220’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\10’ in program
+rental2.c:12:10: error: stray ‘\350’ in program
+rental2.c:12:10: error: stray ‘\5’ in program
+rental2.c:12:10: error: stray ‘\370’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\270’ in program
+rental2.c:12:10: error: stray ‘\200’ in program
+rental2.c:12:10: error: stray ‘\217’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\10’ in program
+rental2.c:12:10: error: stray ‘\211’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\350’ in program
+rental2.c:12:10: error: stray ‘\330’ in program
+rental2.c:12:10: error: stray ‘\367’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\270’ in program
+rental2.c:12:10: error: stray ‘\25’ in program
+rental2.c:12:10: error: stray ‘\217’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\10’ in program
+rental2.c:12:10: error: stray ‘\215’ in program
+rental2.c:12:10: error: stray ‘\224’ in program
+rental2.c:12:10: error: stray ‘\210’ in program
+rental2.c:12:59: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\211’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\211’ in program
+rental2.c:12:10: error: stray ‘\4’ in program
+rental2.c:12:10: error: stray ‘\350’ in program
+rental2.c:12:10: error: stray ‘\320’ in program
+rental2.c:12:10: error: stray ‘\367’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\377’ in program
+rental2.c:12:10: error: stray ‘\307’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\310’ in program
+rental2.c:12:78: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\353’ in program
+rental2.c:12:10: error: stray ‘\213’ in program
+rental2.c:12:10: error: stray ‘\224’ in program
+rental2.c:12:10: error: stray ‘\310’ in program
+rental2.c:12:91: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\211’ in program
+rental2.c:12:10: error: stray ‘\320’ in program
+rental2.c:12:10: error: stray ‘\301’ in program
+rental2.c:12:10: error: stray ‘\340’ in program
+rental2.c:12:10: error: stray ‘\2’ in program
+rental2.c:12:10: error: stray ‘\1’ in program
+rental2.c:12:10: error: stray ‘\320’ in program
+rental2.c:12:10: error: stray ‘\301’ in program
+rental2.c:12:10: error: stray ‘\340’ in program
+rental2.c:12:10: error: stray ‘\2’ in program
+rental2.c:12:10: error: stray ‘\215’ in program
+rental2.c:12:10: error: stray ‘\224’ in program
+rental2.c:12:10: error: stray ‘\320’ in program
+rental2.c:12:108: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\1’ in program
+rental2.c:12:10: error: stray ‘\320’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:115: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\213’ in program
+rental2.c:12:10: error: stray ‘\20’ in program
+rental2.c:12:10: error: stray ‘\213’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\210’ in program
+rental2.c:12:124: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\302’ in program
+rental2.c:12:10: error: stray ‘\16’ in program
+rental2.c:12:10: error: stray ‘\213’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\310’ in program
+rental2.c:12:135: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\211’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\314’ in program
+rental2.c:12:142: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\203’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\310’ in program
+rental2.c:12:149: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\1’ in program
+rental2.c:12:10: error: stray ‘\213’ in program
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\310’ in program
+rental2.c:12:157: warning: null character(s) ignored [enabled by default]
+rental2.c:12:10: error: stray ‘\204’ in program
+rental2.c:12:10: error: stray ‘\274’ in program
+rental2.c:12:164: warning: null character(s) ignored [enabled by default]
+rental2.c:12:167: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘}’ token
+rental2.c:13:1: error: stray ‘\203’ in program
+rental2.c:13:1: error: stray ‘\274’ in program
+rental2.c:13:1: error: stray ‘\314’ in program
+rental2.c:13:5: warning: null character(s) ignored [enabled by default]
+rental2.c:13:1: error: stray ‘\377’ in program
+rental2.c:13:3: error: unknown type name ‘$’
+rental2.c:13:1: error: stray ‘\244’ in program
+rental2.c:13:1: error: stray ‘\203’ in program
+rental2.c:13:1: error: stray ‘\274’ in program
+rental2.c:13:13: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘$’
+rental2.c:13:13: error: stray ‘\314’ in program
+rental2.c:13:15: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\17’ in program
+rental2.c:13:13: error: stray ‘\204’ in program
+rental2.c:13:13: error: stray ‘\206’ in program
+rental2.c:13:22: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\270’ in program
+rental2.c:13:13: error: stray ‘\347’ in program
+rental2.c:13:13: error: stray ‘\220’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\10’ in program
+rental2.c:13:13: error: stray ‘\211’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: unknown type name ‘$’
+rental2.c:13:13: error: stray ‘\350’ in program
+rental2.c:13:13: error: stray ‘\367’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\270’ in program
+rental2.c:13:39: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\221’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\10’ in program
+rental2.c:13:13: error: stray ‘\215’ in program
+rental2.c:13:13: error: stray ‘\211’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\211’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\350’ in program
+rental2.c:13:13: error: stray ‘\367’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\335’ in program
+rental2.c:13:13: error: stray ‘\213’ in program
+rental2.c:13:13: error: stray ‘\224’ in program
+rental2.c:13:13: error: stray ‘\314’ in program
+rental2.c:13:67: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\211’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\301’ in program
+rental2.c:13:13: error: stray ‘\340’ in program
+rental2.c:13:13: error: stray ‘\2’ in program
+rental2.c:13:13: error: stray ‘\1’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\301’ in program
+rental2.c:13:13: error: stray ‘\340’ in program
+rental2.c:13:13: error: stray ‘\2’ in program
+rental2.c:13:13: error: stray ‘\215’ in program
+rental2.c:13:13: error: stray ‘\224’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:84: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\1’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\204’ in program
+rental2.c:13:91: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\335’ in program
+rental2.c:13:13: error: stray ‘@’ in program
+rental2.c:13:13: error: stray ‘\331’ in program
+rental2.c:13:13: error: stray ‘\311’ in program
+rental2.c:13:13: error: stray ‘\335’ in program
+rental2.c:13:13: error: stray ‘\’ in program
+rental2.c:13:13: error: stray ‘\10’ in program
+rental2.c:13:13: error: stray ‘\335’ in program
+rental2.c:13:13: error: stray ‘\34’ in program
+rental2.c:13:13: error: stray ‘\350’ in program
+rental2.c:13:13: error: stray ‘\370’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\213’ in program
+rental2.c:13:13: error: stray ‘\224’ in program
+rental2.c:13:13: error: stray ‘\314’ in program
+rental2.c:13:115: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\211’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\301’ in program
+rental2.c:13:13: error: stray ‘\340’ in program
+rental2.c:13:13: error: stray ‘\2’ in program
+rental2.c:13:13: error: stray ‘\1’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\301’ in program
+rental2.c:13:13: error: stray ‘\340’ in program
+rental2.c:13:13: error: stray ‘\2’ in program
+rental2.c:13:13: error: stray ‘\215’ in program
+rental2.c:13:13: error: stray ‘\224’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:132: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\1’ in program
+rental2.c:13:13: error: stray ‘\320’ in program
+rental2.c:13:13: error: stray ‘\204’ in program
+rental2.c:13:139: warning: null character(s) ignored [enabled by default]
+rental2.c:13:13: error: stray ‘\335’ in program
+rental2.c:13:13: error: stray ‘\307’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\221’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\10’ in program
+rental2.c:13:13: error: stray ‘\350’ in program
+rental2.c:13:13: error: stray ‘\345’ in program
+rental2.c:13:13: error: stray ‘\366’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\353’ in program
+rental2.c:13:13: error: stray ‘\307’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘@’ in program
+rental2.c:13:13: error: stray ‘\220’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:13:13: error: stray ‘\10’ in program
+rental2.c:13:13: error: stray ‘\350’ in program
+rental2.c:13:13: error: stray ‘\327’ in program
+rental2.c:13:13: error: stray ‘\366’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\377’ in program
+rental2.c:13:13: error: stray ‘\307’ in program
+rental2.c:13:13: error: stray ‘\4’ in program
+rental2.c:14:1: warning: null character(s) ignored [enabled by default]
+rental2.c:14:4: error: stray ‘\350’ in program
+rental2.c:14:4: error: stray ‘\213’ in program
+rental2.c:14:4: error: stray ‘\366’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\353’ in program
+rental2.c:14:4: error: stray ‘\17’ in program
+rental2.c:14:4: error: stray ‘\307’ in program
+rental2.c:14:4: error: stray ‘\4’ in program
+rental2.c:14:4: error: stray ‘\30’ in program
+rental2.c:14:4: error: stray ‘\221’ in program
+rental2.c:14:4: error: stray ‘\4’ in program
+rental2.c:14:4: error: stray ‘\10’ in program
+rental2.c:14:4: error: stray ‘\350’ in program
+rental2.c:14:4: error: stray ‘\275’ in program
+rental2.c:14:4: error: stray ‘\366’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\353’ in program
+rental2.c:14:4: error: stray ‘\1’ in program
+rental2.c:14:4: error: stray ‘\220’ in program
+rental2.c:14:4: error: stray ‘\213’ in program
+rental2.c:14:4: error: stray ‘\204’ in program
+rental2.c:14:4: error: stray ‘\214’ in program
+rental2.c:14:30: warning: null character(s) ignored [enabled by default]
+rental2.c:14:4: error: stray ‘\205’ in program
+rental2.c:14:4: error: stray ‘\300’ in program
+rental2.c:14:4: error: stray ‘\17’ in program
+rental2.c:14:4: error: stray ‘\205’ in program
+rental2.c:14:4: error: stray ‘\254’ in program
+rental2.c:14:4: error: stray ‘\370’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\377’ in program
+rental2.c:14:4: error: stray ‘\270’ in program
+rental2.c:14:42: warning: null character(s) ignored [enabled by default]
+rental2.c:14:4: error: stray ‘\311’ in program
+rental2.c:14:4: error: stray ‘\303’ in program
+rental2.c:14:4: error: stray ‘\220’ in program
+rental2.c:14:4: error: stray ‘\220’ in program
+rental2.c:14:4: error: stray ‘\220’ in program
+rental2.c:14:4: error: stray ‘\220’ in program
+rental2.c:14:4: error: stray ‘\350’ in program
+rental2.c:14:58: warning: null character(s) ignored [enabled by default]
+rental2.c:14:4: error: stray ‘\201’ in program
+rental2.c:14:4: error: stray ‘\303’ in program
+rental2.c:14:64: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:14:64: warning: missing terminating " character [enabled by default]
+rental2.c:14:4: error: missing terminating " character
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\363’ in program
+rental2.c:15:1: error: stray ‘\303’ in program
+rental2.c:15:1: error: stray ‘\213’ in program
+rental2.c:15:1: error: stray ‘\34’ in program
+rental2.c:15:1: error: stray ‘\303’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\211’ in program
+rental2.c:15:1: error: stray ‘\345’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\354’ in program
+rental2.c:15:1: error: stray ‘\4’ in program
+rental2.c:15:1: error: stray ‘\241’ in program
+rental2.c:15:1: error: stray ‘\257’ in program
+rental2.c:15:1: error: stray ‘\4’ in program
+rental2.c:15:1: error: stray ‘\10’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\370’ in program
+rental2.c:15:1: error: stray ‘\377’ in program
+rental2.c:15:1: error: stray ‘\23’ in program
+rental2.c:15:1: error: stray ‘\273’ in program
+rental2.c:15:1: error: stray ‘\257’ in program
+rental2.c:15:1: error: stray ‘\4’ in program
+rental2.c:15:1: error: stray ‘\10’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\353’ in program
+rental2.c:15:1: error: stray ‘\4’ in program
+rental2.c:15:1: error: stray ‘\377’ in program
+rental2.c:15:1: error: stray ‘\320’ in program
+rental2.c:15:1: error: stray ‘\213’ in program
+rental2.c:15:1: error: stray ‘\3’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\370’ in program
+rental2.c:15:1: error: stray ‘\377’ in program
+rental2.c:15:1: error: stray ‘\364’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\304’ in program
+rental2.c:15:1: error: stray ‘\4’ in program
+rental2.c:15:1: error: stray ‘\303’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\220’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\354’ in program
+rental2.c:15:1: error: stray ‘\10’ in program
+rental2.c:15:1: error: stray ‘\350’ in program
+rental2.c:15:79: warning: null character(s) ignored [enabled by default]
+rental2.c:15:1: error: stray ‘\201’ in program
+rental2.c:15:1: error: stray ‘\303’ in program
+rental2.c:15:1: error: stray ‘\257’ in program
+rental2.c:15:88: warning: null character(s) ignored [enabled by default]
+rental2.c:15:1: error: stray ‘\350’ in program
+rental2.c:15:1: error: stray ‘\37’ in program
+rental2.c:15:1: error: stray ‘\366’ in program
+rental2.c:15:1: error: stray ‘\377’ in program
+rental2.c:15:1: error: stray ‘\377’ in program
+rental2.c:15:1: error: stray ‘\203’ in program
+rental2.c:15:1: error: stray ‘\304’ in program
+rental2.c:15:1: error: stray ‘\10’ in program
+rental2.c:15:1: error: stray ‘\303’ in program
+rental2.c:15:100: warning: null character(s) ignored [enabled by default]
+rental2.c:15:1: error: stray ‘\3’ in program
+rental2.c:15:103: warning: null character(s) ignored [enabled by default]
+rental2.c:15:1: error: stray ‘\1’ in program
+rental2.c:15:107: warning: null character(s) ignored [enabled by default]
+rental2.c:15:1: error: stray ‘\2’ in program
+rental2.c:15:109: warning: null character(s) ignored [enabled by default]
+rental2.c:16:1: warning: null character(s) ignored [enabled by default]
+rental2.c:16:19: warning: null character(s) ignored [enabled by default]
+rental2.c:16:37: warning: null character(s) ignored [enabled by default]
+rental2.c:16:69: warning: null character(s) ignored [enabled by default]
+rental2.c:16:89: warning: null character(s) ignored [enabled by default]
+rental2.c:17:1: warning: null character(s) ignored [enabled by default]
+rental2.c:17:37: warning: null character(s) ignored [enabled by default]
+rental2.c:17:41: warning: null character(s) ignored [enabled by default]
+rental2.c:19:1: warning: null character(s) ignored [enabled by default]
+rental2.c:19:2: error: stray ‘#’ in program
+rental2.c:19:19: warning: null character(s) ignored [enabled by default]
+rental2.c:19:39: warning: null character(s) ignored [enabled by default]
+rental2.c:19:41: error: invalid suffix "d" on integer constant
+rental2.c:19:45: error: invalid suffix "lf" on floating constant
+rental2.c:20:1: warning: null character(s) ignored [enabled by default]
+rental2.c:22:1: warning: null character(s) ignored [enabled by default]
+rental2.c:22:19: warning: null character(s) ignored [enabled by default]
+rental2.c:22:52: warning: null character(s) ignored [enabled by default]
+rental2.c:22:78: warning: null character(s) ignored [enabled by default]
+rental2.c:22:95: warning: null character(s) ignored [enabled by default]
+rental2.c:22:100: warning: null character(s) ignored [enabled by default]
+rental2.c:23:31: warning: null character(s) ignored [enabled by default]
+rental2.c:23:63: warning: null character(s) ignored [enabled by default]
+rental2.c:23:65: error: invalid suffix "lf" on floating constant
+rental2.c:23:72: error: invalid suffix "lf" on floating constant
+rental2.c:23:79: error: invalid suffix "c" on integer constant
+rental2.c:23:84: error: invalid suffix "lf" on floating constant
+rental2.c:23:89: warning: null character(s) ignored [enabled by default]
+rental2.c:24:1: warning: null character(s) ignored [enabled by default]
+rental2.c:26:1: warning: null character(s) ignored [enabled by default]
+rental2.c:26:2: error: stray ‘#’ in program
+rental2.c:26:27: warning: null character(s) ignored [enabled by default]
+rental2.c:26:54: warning: null character(s) ignored [enabled by default]
+rental2.c:26:56: error: invalid suffix "d" on integer constant
+rental2.c:26:60: error: invalid suffix "lf" on floating constant
+rental2.c:26:68: error: invalid suffix "lf" on floating constant
+rental2.c:26:73: warning: null character(s) ignored [enabled by default]
+rental2.c:28:1: warning: null character(s) ignored [enabled by default]
+rental2.c:28:25: warning: null character(s) ignored [enabled by default]
+rental2.c:28:30: warning: null character(s) ignored [enabled by default]
+rental2.c:28:47: warning: null character(s) ignored [enabled by default]
+rental2.c:29:1: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\215’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\253’ in program
+rental2.c:29:2: error: stray ‘\206’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\207’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\212’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:2: error: stray ‘\214’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:22: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\346’ in program
+rental2.c:29:2: error: stray ‘#’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:50: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:58: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:2: error: stray ‘\256’ in program
+rental2.c:29:2: error: stray ‘\341’ in program
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:2: error: stray ‘\346’ in program
+rental2.c:29:2: error: stray ‘\’ in program
+rental2.c:29:2: error: stray ‘\217’ in program
+rental2.c:29:2: error: stray ‘\302’ in program
+rental2.c:29:2: error: stray ‘\365’ in program
+rental2.c:29:2: error: stray ‘\’ in program
+rental2.c:29:2: error: stray ‘\337’ in program
+rental2.c:29:82: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:2: error: stray ‘\256’ in program
+rental2.c:29:2: error: stray ‘\341’ in program
+rental2.c:29:2: error: stray ‘\204’ in program
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:2: error: stray ‘\33’ in program
+rental2.c:29:2: error: stray ‘\3’ in program
+rental2.c:29:2: error: stray ‘@’ in program
+rental2.c:29:103: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\7’ in program
+rental2.c:29:107: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\’ in program
+rental2.c:29:115: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\213’ in program
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:123: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\267’ in program
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\234’ in program
+rental2.c:29:131: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\366’ in program
+rental2.c:29:2: error: stray ‘\363’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\274’ in program
+rental2.c:29:139: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\350’ in program
+rental2.c:29:2: error: stray ‘\373’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\334’ in program
+rental2.c:29:147: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\374’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\30’ in program
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:156: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\374’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:164: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\24’ in program
+rental2.c:29:167: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:177: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:2: error: stray ‘\33’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\4’ in program
+rental2.c:29:2: error: stray ‘\210’ in program
+rental2.c:29:2: error: stray ‘\1’ in program
+rental2.c:29:188: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\34’ in program
+rental2.c:29:191: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\34’ in program
+rental2.c:29:195: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\350’ in program
+rental2.c:29:2: error: stray ‘\362’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:2: error: stray ‘\377’ in program
+rental2.c:29:203: warning: null character(s) ignored [enabled by default]
+rental2.c:29:2: error: stray ‘\16’ in program
+rental2.c:29:2: error: stray ‘\10’ in program
+rental2.c:29:2: error: stray ‘\205’ in program
+rental2.c:29:2: error: stray ‘\2’ in program
+rental2.c:30:1: error: stray ‘\5’ in program
+rental2.c:30:1: error: stray ‘\305’ in program
+rental2.c:30:1: error: stray ‘\4’ in program
+rental2.c:30:1: error: stray ‘\4’ in program
+rental2.c:30:7: warning: null character(s) ignored [enabled by default]
+rental2.c:30:1: error: stray ‘\34’ in program
+rental2.c:30:10: warning: null character(s) ignored [enabled by default]
+rental2.c:30:14: warning: null character(s) ignored [enabled by default]
+rental2.c:30:1: error: stray ‘\7’ in program
+rental2.c:30:1: error: stray ‘\363’ in program
+rental2.c:30:1: error: stray ‘\377’ in program
+rental2.c:30:1: error: stray ‘\377’ in program
+rental2.c:30:22: warning: null character(s) ignored [enabled by default]
+rental2.c:30:1: error: stray ‘\16’ in program
+rental2.c:30:1: error: stray ‘\10’ in program
+rental2.c:30:1: error: stray ‘\205’ in program
+rental2.c:30:1: error: stray ‘\2’ in program
+rental2.c:31:1: error: stray ‘\5’ in program
+rental2.c:31:1: error: stray ‘\305’ in program
+rental2.c:31:1: error: stray ‘\4’ in program
+rental2.c:31:1: error: stray ‘\4’ in program
+rental2.c:31:7: warning: null character(s) ignored [enabled by default]
+rental2.c:31:1: error: stray ‘\34’ in program
+rental2.c:31:10: warning: null character(s) ignored [enabled by default]
+rental2.c:31:1: error: stray ‘\’ in program
+rental2.c:31:14: warning: null character(s) ignored [enabled by default]
+rental2.c:31:1: error: stray ‘\23’ in program
+rental2.c:31:1: error: stray ‘\363’ in program
+rental2.c:31:1: error: stray ‘\377’ in program
+rental2.c:31:1: error: stray ‘\377’ in program
+rental2.c:31:22: warning: null character(s) ignored [enabled by default]
+rental2.c:31:1: error: stray ‘\16’ in program
+rental2.c:31:1: error: stray ‘\10’ in program
+rental2.c:31:1: error: stray ‘\205’ in program
+rental2.c:31:1: error: stray ‘\2’ in program
+rental2.c:32:1: error: stray ‘\5’ in program
+rental2.c:32:1: error: stray ‘\305’ in program
+rental2.c:32:1: error: stray ‘\4’ in program
+rental2.c:32:1: error: stray ‘\4’ in program
+rental2.c:32:7: warning: null character(s) ignored [enabled by default]
+rental2.c:32:1: error: stray ‘\34’ in program
+rental2.c:32:10: warning: null character(s) ignored [enabled by default]
+rental2.c:32:14: warning: null character(s) ignored [enabled by default]
+rental2.c:32:1: error: stray ‘\363’ in program
+rental2.c:32:1: error: stray ‘\377’ in program
+rental2.c:32:1: error: stray ‘\377’ in program
+rental2.c:32:1: error: stray ‘\356’ in program
+rental2.c:32:1: error: stray ‘\7’ in program
+rental2.c:32:23: warning: null character(s) ignored [enabled by default]
+rental2.c:32:1: error: stray ‘\16’ in program
+rental2.c:32:1: error: stray ‘\10’ in program
+rental2.c:32:1: error: stray ‘\205’ in program
+rental2.c:32:1: error: stray ‘\2’ in program
+rental2.c:33:1: error: stray ‘\5’ in program
+rental2.c:33:1: error: stray ‘\3’ in program
+rental2.c:33:1: error: stray ‘\352’ in program
+rental2.c:33:1: error: stray ‘\7’ in program
+rental2.c:33:1: error: stray ‘\305’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:10: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\234’ in program
+rental2.c:33:14: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:1: error: stray ‘\373’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:22: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\10’ in program
+rental2.c:33:1: error: stray ‘\205’ in program
+rental2.c:33:1: error: stray ‘\2’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\207’ in program
+rental2.c:33:1: error: stray ‘\3’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\20’ in program
+rental2.c:33:1: error: stray ‘\206’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\24’ in program
+rental2.c:33:1: error: stray ‘\203’ in program
+rental2.c:33:1: error: stray ‘\5’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\2’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\24’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\20’ in program
+rental2.c:33:1: error: stray ‘\303’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\306’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\10’ in program
+rental2.c:33:1: error: stray ‘\307’ in program
+rental2.c:33:1: error: stray ‘\16’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:1: error: stray ‘\305’ in program
+rental2.c:33:1: error: stray ‘\20’ in program
+rental2.c:33:70: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\330’ in program
+rental2.c:33:74: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\373’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\2’ in program
+rental2.c:33:82: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\20’ in program
+rental2.c:33:90: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\354’ in program
+rental2.c:33:94: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\373’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:102: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:3221: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:1: error: stray ‘\377’ in program
+rental2.c:33:3229: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\1’ in program
+rental2.c:33:3238: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\20’ in program
+rental2.c:33:3242: warning: null character(s) ignored [enabled by default]
+rental2.c:33:1: error: stray ‘\220’ in program
+rental2.c:33:1: error: stray ‘\203’ in program
+rental2.c:33:1: error: stray ‘\4’ in program
+rental2.c:33:1: error: stray ‘\10’ in program
+rental2.c:34:1: warning: null character(s) ignored [enabled by default]
+rental2.c:34:4: error: stray ‘\216’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\10’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:9: warning: null character(s) ignored [enabled by default]
+rental2.c:34:4: error: stray ‘\254’ in program
+rental2.c:34:4: error: stray ‘\201’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\10’ in program
+rental2.c:34:4: error: stray ‘\365’ in program
+rental2.c:34:4: error: stray ‘\376’ in program
+rental2.c:34:4: error: stray ‘\377’ in program
+rental2.c:34:4: error: stray ‘\344’ in program
+rental2.c:34:4: error: stray ‘\201’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\10’ in program
+rental2.c:34:4: error: stray ‘\5’ in program
+rental2.c:34:25: warning: null character(s) ignored [enabled by default]
+rental2.c:34:4: error: stray ‘\224’ in program
+rental2.c:34:4: error: stray ‘\202’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\10’ in program
+rental2.c:34:4: error: stray ‘\6’ in program
+rental2.c:34:33: warning: null character(s) ignored [enabled by default]
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\202’ in program
+rental2.c:34:4: error: stray ‘\4’ in program
+rental2.c:34:4: error: stray ‘\10’ in program
+rental2.c:35:1: warning: null character(s) ignored [enabled by default]
+rental2.c:35:5: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\20’ in program
+rental2.c:35:13: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\25’ in program
+rental2.c:35:17: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\3’ in program
+rental2.c:35:25: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\364’ in program
+rental2.c:35:4: error: stray ‘\257’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\2’ in program
+rental2.c:35:33: warning: null character(s) ignored [enabled by default]
+rental2.c:35:37: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\24’ in program
+rental2.c:35:41: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\21’ in program
+rental2.c:35:45: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\27’ in program
+rental2.c:35:49: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\21’ in program
+rental2.c:35:57: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\22’ in program
+rental2.c:35:65: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:69: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\23’ in program
+rental2.c:35:73: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:77: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\376’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\1’ in program
+rental2.c:35:93: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\360’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\377’ in program
+rental2.c:35:4: error: stray ‘\16’ in program
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:104: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\257’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:160: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\326’ in program
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\346’ in program
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\366’ in program
+rental2.c:35:4: error: stray ‘\203’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\6’ in program
+rental2.c:35:4: error: stray ‘\204’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\26’ in program
+rental2.c:35:4: error: stray ‘\204’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\204’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:4: error: stray ‘\204’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:196: warning: null character(s) ignored [enabled by default]
+rental2.c:35:222: error: too many decimal points in number
+rental2.c:35:227: warning: null character(s) ignored [enabled by default]
+rental2.c:35:233: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\34’ in program
+rental2.c:35:241: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\2’ in program
+rental2.c:35:245: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:251: warning: null character(s) ignored [enabled by default]
+rental2.c:35:4: error: stray ‘@’ in program
+rental2.c:35:4: error: stray ‘\204’ in program
+rental2.c:35:4: error: stray ‘\4’ in program
+rental2.c:35:4: error: stray ‘\10’ in program
+rental2.c:35:260: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:35:260: warning: missing terminating " character [enabled by default]
+rental2.c:35:4: error: missing terminating " character
+rental2.c:36:1: error: stray ‘\4’ in program
+rental2.c:36:1: error: stray ‘\255’ in program
+rental2.c:36:3: warning: null character(s) ignored [enabled by default]
+rental2.c:37:1: error: stray ‘\4’ in program
+rental2.c:37:1: error: stray ‘\263’ in program
+rental2.c:37:3: warning: null character(s) ignored [enabled by default]
+rental2.c:37:1: error: stray ‘\4’ in program
+rental2.c:37:1: error: stray ‘\1’ in program
+rental2.c:37:1: error: stray ‘\6’ in program
+rental2.c:37:1: error: stray ‘\205’ in program
+rental2.c:37:10: warning: null character(s) ignored [enabled by default]
+rental2.c:37:15: warning: null character(s) ignored [enabled by default]
+rental2.c:37:1: error: stray ‘\1’ in program
+rental2.c:37:1: error: stray ‘\346’ in program
+rental2.c:37:21: warning: null character(s) ignored [enabled by default]
+rental2.c:37:1: error: stray ‘\1’ in program
+rental2.c:37:1: error: stray ‘\203’ in program
+rental2.c:37:1: error: stray ‘\1’ in program
+rental2.c:37:27: warning: null character(s) ignored [enabled by default]
+rental2.c:37:1: error: stray ‘\216’ in program
+rental2.c:37:1: error: stray ‘\4’ in program
+rental2.c:37:1: error: stray ‘\10’ in program
+rental2.c:37:1: error: stray ‘\2’ in program
+rental2.c:37:1: error: stray ‘\216’ in program
+rental2.c:37:1: error: stray ‘\4’ in program
+rental2.c:37:1: error: stray ‘\10’ in program
+rental2.c:37:1: error: stray ‘\2’ in program
+rental2.c:37:1: error: stray ‘\4’ in program
+rental2.c:38:1: error: stray ‘\364’ in program
+rental2.c:38:2: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\336’ in program
+rental2.c:38:6: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\16’ in program
+rental2.c:38:10: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\17’ in program
+rental2.c:38:1: error: stray ‘\1’ in program
+rental2.c:38:1: error: stray ‘\364’ in program
+rental2.c:38:14: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\20’ in program
+rental2.c:38:19: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\20’ in program
+rental2.c:38:1: error: stray ‘\247’ in program
+rental2.c:38:24: warning: null character(s) ignored [enabled by default]
+rental2.c:38:1: error: stray ‘\20’ in program
+rental2.c:38:1: error: stray ‘\247’ in program
+rental2.c:38:29: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\4’ in program
+rental2.c:39:1: error: stray ‘\336’ in program
+rental2.c:39:3: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\275’ in program
+rental2.c:39:8: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\323’ in program
+rental2.c:39:14: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\325’ in program
+rental2.c:39:21: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\323’ in program
+rental2.c:39:27: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\275’ in program
+rental2.c:39:34: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\323’ in program
+rental2.c:39:40: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\325’ in program
+rental2.c:39:47: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\323’ in program
+rental2.c:39:53: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:58: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:61: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\20’ in program
+rental2.c:39:1: error: stray ‘\6’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\22’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:1: error: stray ‘\10’ in program
+rental2.c:39:1: error: stray ‘\33’ in program
+rental2.c:39:1: error: stray ‘\10’ in program
+rental2.c:39:1: error: stray ‘\10’ in program
+rental2.c:39:1: error: stray ‘\23’ in program
+rental2.c:39:1: error: stray ‘\5’ in program
+rental2.c:39:76: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\16’ in program
+rental2.c:39:1: error: stray ‘\23’ in program
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:1: error: stray ‘\16’ in program
+rental2.c:39:1: error: stray ‘\33’ in program
+rental2.c:39:1: error: stray ‘\16’ in program
+rental2.c:39:1: error: stray ‘\21’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\22’ in program
+rental2.c:39:1: error: stray ‘\1’ in program
+rental2.c:39:1: error: stray ‘\20’ in program
+rental2.c:39:1: error: stray ‘\6’ in program
+rental2.c:39:96: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\2’ in program
+rental2.c:39:100: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:1: error: stray ‘\16’ in program
+rental2.c:39:107: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:111: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:1: error: stray ‘\10’ in program
+rental2.c:39:118: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\4’ in program
+rental2.c:39:122: warning: null character(s) ignored [enabled by default]
+rental2.c:39:1: error: stray ‘\3’ in program
+rental2.c:39:1: error: stray ‘\16’ in program
+rental2.c:39:1: error: stray ‘\23’ in program
+rental2.c:39:1: error: stray ‘\2’ in program
+rental2.c:40:1: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\5’ in program
+rental2.c:40:5: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\23’ in program
+rental2.c:40:8: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\1’ in program
+rental2.c:40:3: error: stray ‘\21’ in program
+rental2.c:40:3: error: stray ‘\1’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:3: error: stray ‘\23’ in program
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:3: error: stray ‘\33’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:3: error: stray ‘\21’ in program
+rental2.c:40:3: error: stray ‘\1’ in program
+rental2.c:40:3: error: stray ‘\22’ in program
+rental2.c:40:3: error: stray ‘\1’ in program
+rental2.c:40:3: error: stray ‘\20’ in program
+rental2.c:40:3: error: stray ‘\6’ in program
+rental2.c:40:28: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\2’ in program
+rental2.c:40:32: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\10’ in program
+rental2.c:40:39: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\26’ in program
+rental2.c:40:43: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:3: error: stray ‘\23’ in program
+rental2.c:40:52: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\4’ in program
+rental2.c:40:56: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:63: warning: null character(s) ignored [enabled by default]
+rental2.c:40:3: error: stray ‘\5’ in program
+rental2.c:40:3: error: stray ‘\1’ in program
+rental2.c:40:3: error: stray ‘\3’ in program
+rental2.c:40:3: error: stray ‘\16’ in program
+rental2.c:40:76: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:40:76: warning: missing terminating ' character [enabled by default]
+rental2.c:40:3: error: missing terminating ' character
+rental2.c:41:1: warning: null character(s) ignored [enabled by default]
+rental2.c:41:3: error: stray ‘\7’ in program
+rental2.c:41:5: warning: null character(s) ignored [enabled by default]
+rental2.c:41:3: error: stray ‘\3’ in program
+rental2.c:41:3: error: stray ‘\16’ in program
+rental2.c:41:3: error: stray ‘\23’ in program
+rental2.c:41:14: warning: null character(s) ignored [enabled by default]
+rental2.c:41:3: error: stray ‘\10’ in program
+rental2.c:41:3: error: stray ‘\1’ in program
+rental2.c:41:3: error: stray ‘\6’ in program
+rental2.c:41:21: warning: null character(s) ignored [enabled by default]
+rental2.c:41:25: warning: null character(s) ignored [enabled by default]
+rental2.c:41:3: error: stray ‘\3’ in program
+rental2.c:41:3: error: stray ‘\10’ in program
+rental2.c:41:3: error: stray ‘\23’ in program
+rental2.c:41:3: error: stray ‘\2’ in program
+rental2.c:41:3: error: stray ‘\6’ in program
+rental2.c:41:36: warning: null character(s) ignored [enabled by default]
+rental2.c:42:1: error: stray ‘\17’ in program
+rental2.c:42:2: warning: null character(s) ignored [enabled by default]
+rental2.c:42:1: error: stray ‘\23’ in program
+rental2.c:42:7: warning: null character(s) ignored [enabled by default]
+rental2.c:42:11: warning: null character(s) ignored [enabled by default]
+rental2.c:42:1: error: stray ‘\23’ in program
+rental2.c:42:14: warning: null character(s) ignored [enabled by default]
+rental2.c:42:18: warning: null character(s) ignored [enabled by default]
+rental2.c:42:1: error: stray ‘\3’ in program
+rental2.c:42:1: error: stray ‘\16’ in program
+rental2.c:42:27: warning: missing terminating ' character [enabled by default]
+rental2.c:42:1: error: missing terminating ' character
+rental2.c:43:1: warning: null character(s) ignored [enabled by default]
+rental2.c:44:1: error: stray ‘\1’ in program
+rental2.c:44:1: error: stray ‘\1’ in program
+rental2.c:44:1: error: stray ‘\23’ in program
+rental2.c:44:1: error: stray ‘\1’ in program
+rental2.c:44:1: error: stray ‘\23’ in program
+rental2.c:44:7: warning: null character(s) ignored [enabled by default]
+rental2.c:44:1: error: stray ‘\16’ in program
+rental2.c:44:11: warning: null character(s) ignored [enabled by default]
+rental2.c:44:1: error: stray ‘\17’ in program
+rental2.c:44:1: error: stray ‘\25’ in program
+rental2.c:44:1: error: stray ‘\1’ in program
+rental2.c:44:17: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:44:17: warning: missing terminating ' character [enabled by default]
+rental2.c:44:1: error: missing terminating ' character
+rental2.c:45:1: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:6: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:10: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:32: warning: null character(s) ignored [enabled by default]
+rental2.c:45:41: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:43: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\5’ in program
+rental2.c:45:2: error: stray ‘\2’ in program
+rental2.c:45:2: error: stray ‘@’ in program
+rental2.c:45:2: error: stray ‘\204’ in program
+rental2.c:45:2: error: stray ‘\4’ in program
+rental2.c:45:2: error: stray ‘\10’ in program
+rental2.c:45:2: error: stray ‘\3’ in program
+rental2.c:45:2: error: stray ‘\300’ in program
+rental2.c:45:55: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\’ in program
+rental2.c:45:2: error: stray ‘\2’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:74: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘#’ in program
+rental2.c:45:78: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\2’ in program
+rental2.c:45:82: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\35’ in program
+rental2.c:45:84: warning: null character(s) ignored [enabled by default]
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\1’ in program
+rental2.c:45:2: error: stray ‘\373’ in program
+rental2.c:45:2: error: stray ‘\16’ in program
+rental2.c:46:1: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:6: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:10: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:13: warning: null character(s) ignored [enabled by default]
+rental2.c:46:20: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\203’ in program
+rental2.c:46:26: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\2’ in program
+rental2.c:46:30: warning: null character(s) ignored [enabled by default]
+rental2.c:46:32: warning: null character(s) ignored [enabled by default]
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:2: error: stray ‘\1’ in program
+rental2.c:46:2: error: stray ‘\373’ in program
+rental2.c:46:2: error: stray ‘\16’ in program
+rental2.c:47:1: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:6: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:10: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:53: warning: null character(s) ignored [enabled by default]
+rental2.c:47:65: warning: null character(s) ignored [enabled by default]
+rental2.c:47:77: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:79: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\5’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\220’ in program
+rental2.c:47:2: error: stray ‘\215’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:2: error: stray ‘\351’ in program
+rental2.c:47:91: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:2: error: stray ‘\20’ in program
+rental2.c:47:2: error: stray ‘\255’ in program
+rental2.c:47:101: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\273’ in program
+rental2.c:47:106: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\217’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\32’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:118: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:155: error: too many decimal points in number
+rental2.c:47:165: warning: null character(s) ignored [enabled by default]
+rental2.c:47:184: warning: null character(s) ignored [enabled by default]
+rental2.c:47:194: warning: null character(s) ignored [enabled by default]
+rental2.c:47:209: warning: null character(s) ignored [enabled by default]
+rental2.c:47:232: warning: null character(s) ignored [enabled by default]
+rental2.c:47:239: error: too many decimal points in number
+rental2.c:47:244: warning: null character(s) ignored [enabled by default]
+rental2.c:47:258: warning: null character(s) ignored [enabled by default]
+rental2.c:47:272: warning: null character(s) ignored [enabled by default]
+rental2.c:47:283: warning: null character(s) ignored [enabled by default]
+rental2.c:47:288: warning: null character(s) ignored [enabled by default]
+rental2.c:47:293: warning: null character(s) ignored [enabled by default]
+rental2.c:47:309: warning: null character(s) ignored [enabled by default]
+rental2.c:47:328: warning: null character(s) ignored [enabled by default]
+rental2.c:47:333: warning: null character(s) ignored [enabled by default]
+rental2.c:47:350: warning: null character(s) ignored [enabled by default]
+rental2.c:47:366: warning: null character(s) ignored [enabled by default]
+rental2.c:47:373: warning: null character(s) ignored [enabled by default]
+rental2.c:47:378: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:384: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:388: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:392: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:396: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:400: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:404: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:408: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:412: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:416: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:420: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:424: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\20’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:428: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\22’ in program
+rental2.c:47:432: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:436: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\24’ in program
+rental2.c:47:2: error: stray ‘\22’ in program
+rental2.c:47:440: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\’ in program
+rental2.c:47:444: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:448: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\’ in program
+rental2.c:47:452: warning: null character(s) ignored [enabled by default]
+rental2.c:47:456: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:460: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\24’ in program
+rental2.c:47:464: warning: null character(s) ignored [enabled by default]
+rental2.c:47:468: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:472: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\20’ in program
+rental2.c:47:476: warning: null character(s) ignored [enabled by default]
+rental2.c:47:480: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:484: warning: null character(s) ignored [enabled by default]
+rental2.c:47:488: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘`’ in program
+rental2.c:47:492: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:496: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘`’ in program
+rental2.c:47:500: warning: null character(s) ignored [enabled by default]
+rental2.c:47:504: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:508: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:511: warning: null character(s) ignored [enabled by default]
+rental2.c:47:520: warning: null character(s) ignored [enabled by default]
+rental2.c:47:524: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:528: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\237’ in program
+rental2.c:47:532: warning: null character(s) ignored [enabled by default]
+rental2.c:47:536: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:540: warning: null character(s) ignored [enabled by default]
+rental2.c:47:542: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\26’ in program
+rental2.c:47:551: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\34’ in program
+rental2.c:47:555: warning: null character(s) ignored [enabled by default]
+rental2.c:47:559: warning: null character(s) ignored [enabled by default]
+rental2.c:47:563: warning: null character(s) ignored [enabled by default]
+rental2.c:47:582: warning: null character(s) ignored [enabled by default]
+rental2.c:47:590: warning: null character(s) ignored [enabled by default]
+rental2.c:47:600: warning: null character(s) ignored [enabled by default]
+rental2.c:47:608: warning: null character(s) ignored [enabled by default]
+rental2.c:47:622: warning: null character(s) ignored [enabled by default]
+rental2.c:47:641: warning: null character(s) ignored [enabled by default]
+rental2.c:47:651: warning: null character(s) ignored [enabled by default]
+rental2.c:47:659: warning: null character(s) ignored [enabled by default]
+rental2.c:47:667: warning: null character(s) ignored [enabled by default]
+rental2.c:47:680: warning: null character(s) ignored [enabled by default]
+rental2.c:47:695: warning: null character(s) ignored [enabled by default]
+rental2.c:47:704: warning: null character(s) ignored [enabled by default]
+rental2.c:47:713: warning: null character(s) ignored [enabled by default]
+rental2.c:47:719: warning: null character(s) ignored [enabled by default]
+rental2.c:47:725: warning: null character(s) ignored [enabled by default]
+rental2.c:47:731: warning: null character(s) ignored [enabled by default]
+rental2.c:47:739: warning: null character(s) ignored [enabled by default]
+rental2.c:47:753: warning: null character(s) ignored [enabled by default]
+rental2.c:47:763: warning: null character(s) ignored [enabled by default]
+rental2.c:47:770: warning: null character(s) ignored [enabled by default]
+rental2.c:47:777: warning: null character(s) ignored [enabled by default]
+rental2.c:47:782: warning: null character(s) ignored [enabled by default]
+rental2.c:47:791: warning: null character(s) ignored [enabled by default]
+rental2.c:47:796: warning: null character(s) ignored [enabled by default]
+rental2.c:47:805: warning: null character(s) ignored [enabled by default]
+rental2.c:47:811: warning: null character(s) ignored [enabled by default]
+rental2.c:47:816: warning: null character(s) ignored [enabled by default]
+rental2.c:47:825: warning: null character(s) ignored [enabled by default]
+rental2.c:47:844: warning: null character(s) ignored [enabled by default]
+rental2.c:47:859: warning: null character(s) ignored [enabled by default]
+rental2.c:47:871: warning: null character(s) ignored [enabled by default]
+rental2.c:47:885: warning: null character(s) ignored [enabled by default]
+rental2.c:47:897: warning: null character(s) ignored [enabled by default]
+rental2.c:47:908: warning: null character(s) ignored [enabled by default]
+rental2.c:47:919: warning: null character(s) ignored [enabled by default]
+rental2.c:47:933: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\33’ in program
+rental2.c:47:977: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:981: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:985: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\201’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:994: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\23’ in program
+rental2.c:47:997: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1009: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘#’ in program
+rental2.c:47:1017: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\7’ in program
+rental2.c:47:1021: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1025: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\201’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1034: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1049: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1057: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\7’ in program
+rental2.c:47:1061: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1065: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\210’ in program
+rental2.c:47:2: error: stray ‘\201’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\210’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1074: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1077: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1089: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1097: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\5’ in program
+rental2.c:47:1101: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1105: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\254’ in program
+rental2.c:47:2: error: stray ‘\201’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\254’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1114: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1117: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\6’ in program
+rental2.c:47:1121: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1129: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1133: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1137: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\366’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1145: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\344’ in program
+rental2.c:47:2: error: stray ‘\201’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\344’ in program
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1154: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\6’ in program
+rental2.c:47:1161: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1169: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1173: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1177: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1185: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\202’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1194: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\220’ in program
+rental2.c:47:1197: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\7’ in program
+rental2.c:47:1201: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1205: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1209: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\20’ in program
+rental2.c:47:1213: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1217: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:1221: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1225: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\224’ in program
+rental2.c:47:2: error: stray ‘\202’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\224’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1234: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1237: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1249: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1257: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1265: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\16’ in program
+rental2.c:47:2: error: stray ‘\203’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\16’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:1274: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\22’ in program
+rental2.c:47:1277: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\6’ in program
+rental2.c:47:1281: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1289: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1293: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1297: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\376’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\377’ in program
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1305: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\203’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:1314: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1317: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\7’ in program
+rental2.c:47:1321: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\1’ in program
+rental2.c:47:1325: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1329: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1337: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1345: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\203’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:1354: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:1357: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\6’ in program
+rental2.c:47:1361: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:1369: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:1373: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\203’ in program
+rental2.c:47:1377: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\2’ in program
+rental2.c:47:1385: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\203’ in program
+rental2.c:47:2: error: stray ‘\4’ in program
+rental2.c:47:2: error: stray ‘\10’ in program
+rental2.c:47:2: error: stray ‘\3’ in program
+rental2.c:47:1394: warning: null character(s) ignored [enabled by default]
+rental2.c:47:1397: warning: null character(s) ignored [enabled by default]
+rental2.c:47:2: error: stray ‘\6’ in program
+rental2.c:47:1401: warning: null character(s) ignored [enabled by default]
+rental2.c:48:1: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:5: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:9: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\214’ in program
+rental2.c:48:13: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:17: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:21: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\220’ in program
+rental2.c:48:4: error: stray ‘\203’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\220’ in program
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:30: warning: null character(s) ignored [enabled by default]
+rental2.c:48:33: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:45: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\207’ in program
+rental2.c:48:53: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:57: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:61: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\300’ in program
+rental2.c:48:4: error: stray ‘\203’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\300’ in program
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:70: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\200’ in program
+rental2.c:48:73: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:85: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:89: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\222’ in program
+rental2.c:48:93: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:97: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:101: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘@’ in program
+rental2.c:48:4: error: stray ‘\204’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘@’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:110: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\374’ in program
+rental2.c:48:113: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\20’ in program
+rental2.c:48:125: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\230’ in program
+rental2.c:48:133: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:137: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:141: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\216’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\16’ in program
+rental2.c:48:150: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\32’ in program
+rental2.c:48:153: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:165: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\236’ in program
+rental2.c:48:173: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:177: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\2’ in program
+rental2.c:48:181: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\216’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\16’ in program
+rental2.c:48:190: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:194: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:205: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\246’ in program
+rental2.c:48:213: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:217: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\2’ in program
+rental2.c:48:221: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\250’ in program
+rental2.c:48:4: error: stray ‘\221’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\250’ in program
+rental2.c:48:4: error: stray ‘\21’ in program
+rental2.c:48:230: warning: null character(s) ignored [enabled by default]
+rental2.c:48:233: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:245: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\264’ in program
+rental2.c:48:253: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:257: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\2’ in program
+rental2.c:48:261: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\354’ in program
+rental2.c:48:4: error: stray ‘\221’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\354’ in program
+rental2.c:48:4: error: stray ‘\21’ in program
+rental2.c:48:270: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:274: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:285: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\276’ in program
+rental2.c:48:293: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:297: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:301: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:310: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:313: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:325: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\305’ in program
+rental2.c:48:333: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:337: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:341: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\24’ in program
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\24’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:350: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:353: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:365: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\314’ in program
+rental2.c:48:373: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:377: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:381: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\34’ in program
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\34’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:390: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:393: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:405: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\321’ in program
+rental2.c:48:413: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:417: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:421: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:430: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\320’ in program
+rental2.c:48:433: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\7’ in program
+rental2.c:48:437: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:445: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:449: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\332’ in program
+rental2.c:48:453: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:457: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:461: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\360’ in program
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\360’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:470: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:473: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:485: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:489: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\337’ in program
+rental2.c:48:493: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:497: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:501: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\364’ in program
+rental2.c:48:4: error: stray ‘\257’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\364’ in program
+rental2.c:48:4: error: stray ‘\37’ in program
+rental2.c:48:510: warning: null character(s) ignored [enabled by default]
+rental2.c:48:513: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:525: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:529: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\350’ in program
+rental2.c:48:533: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:537: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:541: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\34’ in program
+rental2.c:48:4: error: stray ‘\260’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:4: error: stray ‘\34’ in program
+rental2.c:48:549: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:553: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:565: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\356’ in program
+rental2.c:48:573: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:577: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\3’ in program
+rental2.c:48:581: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\260’ in program
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:589: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:593: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\4’ in program
+rental2.c:48:605: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\363’ in program
+rental2.c:48:613: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:617: warning: null character(s) ignored [enabled by default]
+rental2.c:48:621: warning: null character(s) ignored [enabled by default]
+rental2.c:48:629: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\30’ in program
+rental2.c:48:633: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:645: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:649: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\374’ in program
+rental2.c:48:653: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:657: warning: null character(s) ignored [enabled by default]
+rental2.c:48:661: warning: null character(s) ignored [enabled by default]
+rental2.c:48:669: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\6’ in program
+rental2.c:48:673: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:685: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:689: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\17’ in program
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:694: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:697: warning: null character(s) ignored [enabled by default]
+rental2.c:48:709: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘@’ in program
+rental2.c:48:713: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\10’ in program
+rental2.c:48:725: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\36’ in program
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:734: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:737: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\210’ in program
+rental2.c:48:749: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\2’ in program
+rental2.c:48:754: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:765: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:774: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\1’ in program
+rental2.c:48:777: warning: null character(s) ignored [enabled by default]
+rental2.c:48:4: error: stray ‘\262’ in program
+rental2.c:48:789: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:48:789: warning: missing terminating " character [enabled by default]
+rental2.c:48:4: error: missing terminating " character
+rental2.c:49:1: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\203’ in program
+rental2.c:49:6: error: stray ‘\4’ in program
+rental2.c:49:6: error: stray ‘\10’ in program
+rental2.c:49:10: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\3’ in program
+rental2.c:49:15: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\220’ in program
+rental2.c:49:6: error: stray ‘\203’ in program
+rental2.c:49:6: error: stray ‘\4’ in program
+rental2.c:49:6: error: stray ‘\10’ in program
+rental2.c:49:26: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\3’ in program
+rental2.c:49:31: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\300’ in program
+rental2.c:49:6: error: stray ‘\203’ in program
+rental2.c:49:6: error: stray ‘\4’ in program
+rental2.c:49:6: error: stray ‘\10’ in program
+rental2.c:49:42: warning: null character(s) ignored [enabled by default]
+rental2.c:49:6: error: stray ‘\3’ in program
+rental2.c:49:47: warning: null character(s) ignored [enabled by default]
+rental2.c:50:1: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘@’ in program
+rental2.c:50:6: error: stray ‘\204’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:10: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:15: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\16’ in program
+rental2.c:50:17: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\216’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:26: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:31: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\17’ in program
+rental2.c:50:33: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\216’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:42: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:47: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\20’ in program
+rental2.c:50:49: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\250’ in program
+rental2.c:50:6: error: stray ‘\221’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:58: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:63: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\21’ in program
+rental2.c:50:65: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\354’ in program
+rental2.c:50:6: error: stray ‘\221’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:74: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:79: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\22’ in program
+rental2.c:50:81: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:90: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:95: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\23’ in program
+rental2.c:50:97: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\24’ in program
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:106: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:111: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\24’ in program
+rental2.c:50:113: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\34’ in program
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:122: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:127: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\25’ in program
+rental2.c:50:129: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:138: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:143: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\26’ in program
+rental2.c:50:145: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\360’ in program
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:154: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:159: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\27’ in program
+rental2.c:50:161: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\364’ in program
+rental2.c:50:6: error: stray ‘\257’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:170: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:175: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\30’ in program
+rental2.c:50:177: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\34’ in program
+rental2.c:50:6: error: stray ‘\260’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:186: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:191: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\31’ in program
+rental2.c:50:193: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\260’ in program
+rental2.c:50:6: error: stray ‘\4’ in program
+rental2.c:50:6: error: stray ‘\10’ in program
+rental2.c:50:202: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:207: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\32’ in program
+rental2.c:50:209: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:223: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\33’ in program
+rental2.c:50:225: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:239: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\34’ in program
+rental2.c:50:241: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:255: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\35’ in program
+rental2.c:50:257: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:271: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\36’ in program
+rental2.c:50:273: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:287: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\37’ in program
+rental2.c:50:289: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:303: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:319: warning: null character(s) ignored [enabled by default]
+rental2.c:50:321: warning: null character(s) ignored [enabled by default]
+rental2.c:50:6: error: stray ‘\3’ in program
+rental2.c:50:335: warning: null character(s) ignored [enabled by default]
+rental2.c:50:336: warning: null character(s) preserved in literal [enabled by default]
+rental2.c:50:336: warning: missing terminating " character [enabled by default]
+rental2.c:50:6: error: missing terminating " character

@@ -1,0 +1,45 @@
+Script started on Sun 09 Jul 2017 12:56:17 PM EDT
+cameron.gray@matrix:~/_staging/144/ws09> ws
+Welcome to the Book Store
+=========================
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 1
+
+
+Inventory
+===================================================
+ISBN      Title               Year Price  Quantity
+---------+-------------------+----+-------+--------
+234562    Harry Potter        2010 $23.99   3       
+567890    The Hunger Games    2015 $12.67   4       
+109821    Stranger Things     2017 $53.20   2       
+===================================================
+
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 4
+The total capital is: $229.05.
+Please select from the following options:
+1) Display the inventory.
+2) Add a book to the inventory.
+3) Check price.
+4) Calculate total capital of the store.
+0) Exit.
+
+Select: 0
+Goodbye!
+cameron.gray@matrix:~/_staging/144/ws09> exit
+exit
+
+Script done on Sun 09 Jul 2017 12:56:28 PM EDT

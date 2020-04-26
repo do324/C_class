@@ -1,0 +1,5 @@
+234562;23.99;2010;3;Harry Potter
+567890;12.67;2015;4;The Hunger Games
+109821;53.20;2017;2;Stranger Things
+987654;25.60;1960;2;Tintin in Tibet
+378021;40.99;2016;3;Born a crime

@@ -1,0 +1,211 @@
+Script started on Sun 09 Jul 2017 04:15:54 PM EDT
+cameron.gray@matrix:~/_staging/144/ms3> ws
+================================
+================Search Test:
+Enter 731: 
+Please enter the SKU: 731
+        SKU: 731
+       Name: Allen's Apple Juice
+      Price: 1.79
+   Quantity: 100
+Minimum Qty: 10
+   Is Taxed: Yes
+Enter 222: 
+Please enter the SKU: 222
+Item not found!
+================================
+================Update Test:
+Enter the following: 
+         SKU: 111
+        Name: Grape
+      Price : 22.22
+   Quantity : 22
+Minimum Qty : 2
+   Is Taxed : y
+Overwrite old data? (Y)es/(N)o: n
+Enter new data:
+        SKU: 111
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: y
+Overwrite old data? (Y)es/(N)o: n
+--== Aborted! ==--
+Unchanged Item Data:
+        SKU: 111
+       Name: Ones!
+      Price: 11.11
+   Quantity: 11
+Minimum Qty: 1
+   Is Taxed: Yes
+Enter the following: 
+         SKU: 111
+        Name: Grape
+      Price : 22.22
+   Quantity : 22
+Minimum Qty : 2
+   Is Taxed : y
+Overwrite old data? (Y)es/(N)o: y
+Enter new data:
+        SKU: 111
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: y
+Overwrite old data? (Y)es/(N)o: y
+--== Updated! ==--
+Updated Item: 
+        SKU: 111
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: Yes
+================================
+================Add Test:
+Total items in Storage: 20, Max no: 21
+Enter the following: 
+         SKU: 222
+        Name: Grape
+      Price : 22.22
+   Quantity : 22
+Minimum Qty : 2
+   Is Taxed : y
+Add Item? (Y)es/(N)o: n
+        SKU: 222
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: y
+Add Item? (Y)es/(N)o: n
+--== Aborted! ==--
+Garbage here! Nothing is added, No of items in storage: 20
+        SKU: 0
+       Name: 
+      Price: 0.00
+   Quantity: 0
+Minimum Qty: 0
+   Is Taxed: No
+WARNING: Quantity low, please order ASAP!!!
+Enter the following: 
+         SKU: 222
+        Name: Grape
+      Price : 22.22
+   Quantity : 22
+Minimum Qty : 2
+   Is Taxed : y
+Add Item? (Y)es/(N)o: y
+        SKU: 222
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: y
+Add Item? (Y)es/(N)o: y
+--== Added! ==--
+New item is added, No of items in storage: 21
+        SKU: 222
+       Name: Grape
+      Price: 22.22
+   Quantity: 22
+Minimum Qty: 2
+   Is Taxed: Yes
+Adding 333: 
+Can not add new item; Storage Full!
+================================
+================AddOrUpdate Test:
+Enter 731 and then 'n':
+Please enter the SKU: 731
+        SKU: 731
+       Name: Allen's Apple Juice
+      Price: 1.79
+   Quantity: 100
+Minimum Qty: 10
+   Is Taxed: Yes
+Item already exists, Update? (Y)es/(N)o: n
+--== Aborted! ==--
+Enter 731, 'y' and then:
+       Name: Apple
+      Price: 1.80
+   Quantity: 101
+Minimum Qty: 11
+   Is Taxed: n
+Overwrite old data? (Y)es/(N)o: y
+Please enter the SKU: 731
+        SKU: 731
+       Name: Allen's Apple Juice
+      Price: 1.79
+   Quantity: 100
+Minimum Qty: 10
+   Is Taxed: Yes
+Item already exists, Update? (Y)es/(N)o: y
+Enter new data:
+        SKU: 731
+       Name: Apple
+      Price: 1.80
+   Quantity: 101
+Minimum Qty: 11
+   Is Taxed: n
+Overwrite old data? (Y)es/(N)o: y
+--== Updated! ==--
+Updated Item: 
+        SKU: 731
+       Name: Apple
+      Price: 1.80
+   Quantity: 101
+Minimum Qty: 11
+   Is Taxed: No
+Enter 444: 
+Please enter the SKU: 444
+Can not add new item; Storage Full!
+================================
+================AdjustQty Test:
+Invalid SKU Test; Enter 444:
+Please enter the SKU: 444
+SKU not found in storage!
+Aborting Entry test; Enter 649 and then 0:
+Please enter the SKU: 649
+        SKU: 649
+       Name: Joe Org Chips
+      Price: 3.29
+   Quantity: 15
+Minimum Qty: 5
+   Is Taxed: Yes
+Please enter the quantity to checkout; Maximum of 15 or 0 to abort: 0
+--== Aborted! ==--
+Checking out with low quantity warning; Enter 649 and then 12:
+Please enter the SKU: 649
+        SKU: 649
+       Name: Joe Org Chips
+      Price: 3.29
+   Quantity: 15
+Minimum Qty: 5
+   Is Taxed: Yes
+Please enter the quantity to checkout; Maximum of 15 or 0 to abort: 12
+--== Checked out! ==--
+Quantity is low, please reorder ASAP!!!
+Stocking; Enter 649 and then 50:
+Please enter the SKU: 649
+        SKU: 649
+       Name: Joe Org Chips
+      Price: 3.29
+   Quantity: 3
+Minimum Qty: 5
+   Is Taxed: Yes
+WARNING: Quantity low, please order ASAP!!!
+Please enter the quantity to stock; Maximum of 996 or 0 to abort: 50
+--== Stocked! ==--
+        SKU: 649
+       Name: Joe Org Chips
+      Price: 3.29
+   Quantity: 53
+Minimum Qty: 5
+   Is Taxed: Yes
+================================
+cameron.gray@matrix:~/_staging/144/ms3> exit
+exit
+
+Script done on Sun 09 Jul 2017 04:20:25 PM EDT

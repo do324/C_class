@@ -1,0 +1,12 @@
+1) What are the possible return values of the function readRecord? What does this return value represent? 
+2) Address of file object and address of a struct book object.
+3) 
+
+4) 
+5) What is the difference between opening a file in r, w, and a+ mode?
+6) r is reading from file and w is writing to the file and a+ is writing to the end of the file. 
+7) 
+8) Briefly explain the value of reading data from a file as opposed to reading all data from user input.
+9) I can use and access to the information in the text file by another program later.
+And it is more simple than getting all data from user input .
+

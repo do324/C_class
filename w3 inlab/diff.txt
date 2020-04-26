@@ -1,0 +1,10 @@
+
+In line number 28 of your output:
+The output should be:
+The average (mean) temperature was: 4.50
+But your output is: 
+average 4.50 dkim126@matrix:~/w2/w3> exit
+^
+|
+Professor's character ASCII code: hex(54), dec(84)
+un-matched character ASCII code: hex(61), dec(97)

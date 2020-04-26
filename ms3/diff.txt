@@ -1,0 +1,10 @@
+
+In line number 28 of your output:
+The output should be:
+       Name: Grape
+But your output is: 
+Gr^H^H^H^H^Z
+^
+|
+Professor's character ASCII code: hex(20), dec(32)
+un-matched character ASCII code: hex(47), dec(71)

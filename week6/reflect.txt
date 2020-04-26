@@ -1,0 +1,6 @@
+1. c program is composed of several functions. while a program is performed, a program calls functions frequently.
+   if i use functions, a code will not be duplicated and will be a brief. and i can use a code that was written before several times.
+   the modularity will increase.
+2. modularity means to a logical partitioning that makes complex software to be manageable for the purpose of implementation and maintenance. The logic of partitioning may be based on related functions, implementation considerations, data links, or other criteria.
+   reusability is the reuse of existing data in programming.
+3. first, define a function and send data from a fuction. second, call a function  using (); and recieve data.

@@ -1,0 +1,69 @@
+Script started on Thu 22 Jun 2017 06:09:44 PM EDT
+dkim126@matrix:~/week6> ws
+***** Rental Vehicle Management App *****
+
+1.) Rental Status
+2.) Apply Charges
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 123
+Enter Rental Period (in Days): 2
+Enter kilometers driven: 125
+
+Base   kmCost Total
+====== ====== ======
+ 19.90  81.25 101.15
+
+1.) Rental Status
+2.) Apply Charges
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 124
+Enter Rental Period (in Days): 3
+Enter kilometers driven: 79
+
+Base   kmCost Total
+====== ====== ======
+ 59.85  54.51 114.36
+
+1.) Rental Status
+2.) Apply Charges
+0.) Log out
+
+Please enter an option to continue: 2
+
+-- Rental Charges --
+
+Enter vehicle ID: 125
+ERROR: Vehicle ID does not exist.
+
+1.) Rental Status
+2.) Apply Charges
+0.) Log out
+
+Please enter an option to continue: 1
+
+-- Rental Vehicle Status --
+
+ID#      Earnings
+-------- ----------
+     123     101.15
+     124     114.36
+
+1.) Rental Status
+2.) Apply Charges
+0.) Log out
+
+Please enter an option to continue: 0
+dkim126@matrix:~/week6> exit
+exit
+
+Script done on Thu 22 Jun 2017 06:10:05 PM EDT

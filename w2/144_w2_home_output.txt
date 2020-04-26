@@ -1,0 +1,14 @@
+Script started on Sat 20 May 2017 01:00:53 PM EDT
+cameron.gray@matrix:~/_out/144/w02/at-home> ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+cameron.gray@matrix:~/_out/144/w02/at-home> exit
+exit
+
+Script done on Sat 20 May 2017 01:01:02 PM EDT

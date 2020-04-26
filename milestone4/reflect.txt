@@ -1,0 +1,5 @@
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability. 
+findContactIndex makes more convenient to find cell phone numbers from contact. And function can make more readable and call easily in to the code. getTenDigitPhone also can call phone number more easily in the code. This function can store phone number and used in searchContacts function. This make more easily to read and maintain.  
+ 
+4. What did you learn most from doing Assignment 2?
+I think function can make more tidy and good readability code. Function is very good to call and save a value in each function and make easy to modification. 

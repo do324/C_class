@@ -1,0 +1,14 @@
+Please provide brief answers to the following questions in a text file named reflect.txt.
+
+1)	In two or three sentences discuss the advantages of using an array of structs versus parallel arrays when dealing with related data 
+
+parallel array is more difficult to handle. i have to add another array when i need another field. but if i use struct array i do not need to add another array. because in struct, i can save several arrays.   
+
+
+
+
+
+2)	The preferred method of declaring a struct data type is in a header file. Briefly explain why. Hint: this is explained in the notes.
+
+headerfile's code permit me to write code in one spot and edit in that spot. because headerfile code is copyed inside each c file.   	
+

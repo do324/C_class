@@ -1,0 +1,136 @@
+Script started on Wed 05 Jul 2017 02:00:41 AM EDT
+dkim126@matrix:~/m> ms1
+---=== Grocery Inventory System ===---
+
+listing header and footer with grand total:
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+--------------------------------------------------------+----------------
+                                           Grand Total: |     1234.57
+listing header and footer without grand total:
+Row |SKU| Name               | Price  |Taxed| Qty | Min |   Total    |Atn
+----+---+--------------------+--------+-----+-----+-----+------------|---
+--------------------------------------------------------+----------------
+Press <ENTER> to continue...
+Enter an integer: abc
+Invalid integer, please try again: 10abc
+Invalid integer, please try again: 10
+You entered: 10
+Enter an integer between 10 and 20: 9
+Invalid value, 10 < value < 20: 21
+Invalid value, 10 < value < 20: 15
+Your entered 15
+Enter a floating point number: abc
+Invalid number, please try again: 2.3abc
+Invalid number, please try again: 2.3
+You entered: 2.30
+Enter a floating point number between 10.00 and 20.00: 9.99
+Invalid value, 10.000000< value < 20.000000: 20.1
+Invalid value, 10.000000< value < 20.000000: 15.05
+You entered: 15.05
+---=== Grocery Inventory System ===---
+
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 8
+Invalid value, 0 < value < 7: 1
+List Items under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 2
+Search Items under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 3
+Checkout Item under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 4
+Stock Item under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 5
+Add/Update Item under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 6
+Delete Item under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 7
+Search by name under construction!
+Press <ENTER> to continue...
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 0
+Exit the program? (Y)es/(N)o: x
+Only (Y)es or (N)o are acceptable: n
+1- List all items
+2- Search by SKU
+3- Checkout an item
+4- Stock an item
+5- Add new item or update item
+6- Delete item
+7- Search by name
+0- Exit program
+> 0
+Exit the program? (Y)es/(N)o: y
+End of tester program for milestone one!
+dkim126@matrix:~/m> exit
+exit
+
+Script done on Wed 05 Jul 2017 02:01:50 AM EDT

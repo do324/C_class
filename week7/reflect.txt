@@ -1,0 +1,12 @@
+1)	In 2 or 3 sentences explain the advantage of passing (receiving) values from a function through its parameters rather than through its return value?
+
+first, i dont have to make a new copy of variable, overhead of copying is saved. so a program can execute more faster when passing object of large structs. and 
+array, oject can be pass.
+2)	Define the term dereference and identify an example in your code.
+pointer that using the * operator to access the value stored at a pointer.
+Ex. 
+printf("(%3d)-%3d-%4d\n", *a, *p, *l);
+
+3)	Explain what is stored in a pointer variable.
+An address, "address" for that memory location.
+ 
